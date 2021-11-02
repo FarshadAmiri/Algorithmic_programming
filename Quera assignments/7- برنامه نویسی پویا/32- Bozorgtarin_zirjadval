@@ -1,0 +1,47 @@
+import numpy as np
+
+m,n = map(int, input().split())
+a = np.zeros(shape=(m,n))
+for i in range(m):
+    row = list(map(int, input().split()))
+    a[i,:] = row
+
+print(a)
+
+b = np.zeros(shape=(n,m,m))
+for i in range(n):
+    for j in range(m):
+        b[i, j, j] = a[j, i]
+        for k in range(j,m):
+            b[i,j,k] = b[i,j, k-1] + a[k,i]
+
+# print(b)
+
+# answer = -10e50
+
+# for r1 in range(m):
+#     for r2 in range(r1,m):
+#         for c1 in range(n):
+#             for c2 in range(c1,n):
+#                 sum = 0
+#                 for i in range(c1,c2+1):
+#                     sum += b[i,r1,r2]
+#                 if sum > answer:
+#                     answer = sum
+                    # ax = [r1,r2,c1,c2]
+
+
+# print(int(answer))
+# print(ax)
+
+answer = dict()
+
+for c1 in range(n):
+    for r1 in range(m):
+        for r2 in range(r1,m):
+            answer[c1] = b[c1,r1,r2]
+            for c2 in range(c1,n):
+                answer[c1] = max(answer[c1], answer[c1] + b[c2,r1,r2])
+
+print(answer)
+# print(int(max(answer.values())))
