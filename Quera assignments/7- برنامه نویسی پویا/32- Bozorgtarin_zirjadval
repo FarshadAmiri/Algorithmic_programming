@@ -1,47 +1,31 @@
-import numpy as np
-
 m,n = map(int, input().split())
-a = np.zeros(shape=(m,n))
+a = []
+
 for i in range(m):
     row = list(map(int, input().split()))
-    a[i,:] = row
+    a.append(row)
 
-# print(a)
+b = [[[0 for i in range(m)] for j in range(m)] for k in range(n)]
 
-b = np.zeros(shape=(n,m,m))
 for i in range(n):
     for j in range(m):
-        b[i, j, j] = a[j, i]
+        b[i][j][j] = a[j][i]
         for k in range(j+1,m):
-            b[i,j,k] = b[i,j, k-1] + a[k,i]
+            b[i][j][k] = b[i][j][k-1] + a[k][i]
 
-# print(b)
-
-# answer = -10e50
-
-# for r1 in range(m):
-#     for r2 in range(r1,m):
-#         for c1 in range(n):
-#             for c2 in range(c1,n):
-#                 sum = 0
-#                 for i in range(c1,c2+1):
-#                     sum += b[i,r1,r2]
-#                 if sum > answer:
-#                     answer = sum
-#                     ax = [r1,r2,c1,c2]
-#
-#
-# print(int(answer))
-# print(ax)
-
-
-max_sum = dict()
+max_sum = [[[1e-10 for i in range(m)] for j in range(m)] for k in range(n)]
 
 for r1 in range(m):
     for r2 in range(r1,m):
-        max_sum[0,r1,r2] = b[0,r1,r2]
+        max_sum[0][r1][r2] = b[0][r1][r2]
         for c2 in range(1,n):
-            max_sum[c2,r1,r2] = max(b[c2,r1,r2], max_sum[c2-1,r1,r2] + b[c2,r1,r2])
+            max_sum[c2][r1][r2] = max(b[c2][r1][r2], max_sum[c2-1][r1][r2] + b[c2][r1][r2])
 
+ans = 1e-100
+for i in max_sum:
+    for j in i:
+        for k in j:
+            if k > ans:
+                ans = k
 
-print(int(max(max_sum.values())))
+print(int(ans))

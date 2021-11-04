@@ -1,6 +1,14 @@
-l=[]
+import numpy as np
 
-for i in range(2001):
-    l.append(i)
+m = 5
+n = 6
+# 5 rows & 6 cols
 
-print(l)
+
+b = [[[0 for i in range(m)] for j in range(m)] for k in range(n)]
+
+print(b)
+
+bb = list(np.zeros(shape=(n,m,m)))
+
+print(bb)
