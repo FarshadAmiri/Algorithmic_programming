@@ -54,7 +54,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Python.36- Ya_hame_ya_hich_ya_yeki">
+  <component name="RunManager" selected="Python.36- Ya_hame_ya_hich_ya_yeki_(Conditional_Knapsack)">
     <configuration name="35- Chaleshe_Masiryabi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="36- Ya_hame_ya_hich_ya_yeki" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="36- Ya_hame_ya_hich_ya_yeki_(Conditional_Knapsack)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +90,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7- برنامه نویسی پویا/36- Ya_hame_ya_hich_ya_yeki.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\7- برنامه نویسی پویا\36- Ya_hame_ya_hich_ya_yeki_(Conditional_Knapsack).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +167,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.36- Ya_hame_ya_hich_ya_yeki" />
+        <item itemvalue="Python.36- Ya_hame_ya_hich_ya_yeki_(Conditional_Knapsack)" />
         <item itemvalue="Python.draft" />
         <item itemvalue="Python.Knapsack_problem" />
         <item itemvalue="Python.Knapsack_input_generator" />
