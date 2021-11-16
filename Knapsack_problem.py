@@ -7,8 +7,41 @@ s = 40
 
 assert len(wt) == len(val), 'w and v do not have same lenghts!'
 n = len(wt)
-dp = [[None for i in range(s+1)] for j in range(n+1)]
-par = [[None for iii in range(s+1)] for jjj in range(n+1)]
+# dp = [[None for i in range(s+1)] for j in range(n+1)]
+# par = [[None for iii in range(s+1)] for jjj in range(n+1)]
+#
+# def knapsack(s, wt, val, n):
+#     global dp
+#     global par
+#     for i in range(0,n+1):
+#         for j in range(0,s+1):
+#             if i == 0 or j == 0:
+#                 dp[i][j] = 0
+#             elif wt[i-1] <= j:
+#                 dp[i][j] = max(dp[i-1][j], dp[i-1][j-wt[i-1]] + val[i-1])
+#                 if dp[i-1][j] > dp[i-1][j-wt[i-1]] + val[i-1]:
+#                     par[i][j] = 0
+#                 else:
+#                     par[i][j] = 1
+#             else:
+#                 dp[i][j] = dp[i-1][j]
+#                 par[i][j] = 0
+#     return dp[n][s]
+#
+#
+# knapsack(s, wt, val, n)
+# print(dp[n][s])
+#
+# CurrentRemainingWeight = s
+# for i in reversed(range(n+1)):
+#     if par[i][CurrentRemainingWeight] == 1:
+#         print(f"{i}'th object has been taken")
+#         CurrentRemainingWeight -= wt[i-1]
+
+# --------------------------------------------------------------------------------------------------
+# Optimized DP
+
+dp = [[None for i in range(s+1)] for j in range(2)]
 
 def knapsack(s, wt, val, n):
     global dp
@@ -16,24 +49,14 @@ def knapsack(s, wt, val, n):
     for i in range(0,n+1):
         for j in range(0,s+1):
             if i == 0 or j == 0:
-                dp[i][j] = 0
+                dp[i % 2][j] = 0
             elif wt[i-1] <= j:
-                dp[i][j] = max(dp[i-1][j], dp[i-1][j-wt[i-1]] + val[i-1])
-                if dp[i-1][j] > dp[i-1][j-wt[i-1]] + val[i-1]:
-                    par[i][j] = 0
-                else:
-                    par[i][j] = 1
+                dp[i % 2][j] = max(dp[(i % 2) - 1][j], dp[(i % 2) - 1][j-wt[i-1]] + val[i-1])
+
             else:
-                dp[i][j] = dp[i-1][j]
-                par[i][j] = 0
-    return dp[n][s]
+                dp[i % 2][j] = dp[(i % 2) - 1][j]
+    return dp[1][s]
 
 
 knapsack(s, wt, val, n)
-print(dp[n][s])
-
-CurrentRemainingWeight = s
-for i in reversed(range(n+1)):
-    if par[i][CurrentRemainingWeight] == 1:
-        print(f"{i}'th object has been taken")
-        CurrentRemainingWeight -= wt[i-1]
+print(dp[1][s])
