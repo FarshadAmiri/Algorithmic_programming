@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="32- bozorgtarin_zirjadval added">
-      <change afterPath="$PROJECT_DIR$/7- برنامه نویسی پویا/37-2 Tafahom_LCS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Quera assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Quera assignments.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7- برنامه نویسی پویا/38- Berim_Touchal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7- برنامه نویسی پویا/37- Tafahom_(LCS).py" beforeDir="false" afterPath="$PROJECT_DIR$/7- برنامه نویسی پویا/37- Tafahom_(LCS).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/draft.py" beforeDir="false" afterPath="$PROJECT_DIR$/draft.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,29 +59,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Knapsack_problem.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.draft">
-    <configuration name="36- Ya_hame_ya_hich_ya_yeki_(Conditional_Knapsack)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Quera assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7- برنامه نویسی پویا" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\7- برنامه نویسی پویا\36- Ya_hame_ya_hich_ya_yeki_(Conditional_Knapsack).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.38-2 Berim_Touchal">
     <configuration name="37- Tafahom_(LCS)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Knapsack_problem (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="38- Berim_Touchal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,12 +112,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7- برنامه نویسی پویا" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Knapsack_problem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7- برنامه نویسی پویا/38- Berim_Touchal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="38-2 Berim_Touchal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Quera assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7- برنامه نویسی پویا" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7- برنامه نویسی پویا/38-2 Berim_Touchal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.38-2 Berim_Touchal" />
+        <item itemvalue="Python.38- Berim_Touchal" />
         <item itemvalue="Python.draft" />
         <item itemvalue="Python.37-2 Tafahom_LCS" />
         <item itemvalue="Python.37- Tafahom_(LCS)" />
-        <item itemvalue="Python.Knapsack_problem (1)" />
-        <item itemvalue="Python.36- Ya_hame_ya_hich_ya_yeki_(Conditional_Knapsack)" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +202,7 @@
       <workItem from="1637223595228" duration="8132000" />
       <workItem from="1637250594629" duration="1197000" />
       <workItem from="1637306167238" duration="1284000" />
-      <workItem from="1637307486950" duration="902000" />
+      <workItem from="1637307486950" duration="13337000" />
     </task>
     <task id="LOCAL-00001" summary="32- bozorgtarin_zirjadval added">
       <created>1635876080466</created>
@@ -257,42 +254,42 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1637306954968" />
-    <state width="1557" height="231" key="GridCell.Tab.0.bottom" timestamp="1637249584082">
+    <state width="1557" height="225" key="GridCell.Tab.0.bottom" timestamp="1637408787894">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="231" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1637249584082" />
-    <state width="1557" height="231" key="GridCell.Tab.0.center" timestamp="1637249584082">
+    <state width="1557" height="225" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1637408787894" />
+    <state width="1557" height="225" key="GridCell.Tab.0.center" timestamp="1637408787894">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="231" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1637249584082" />
-    <state width="1557" height="231" key="GridCell.Tab.0.left" timestamp="1637249584081">
+    <state width="1557" height="225" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1637408787894" />
+    <state width="1557" height="225" key="GridCell.Tab.0.left" timestamp="1637408787894">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="231" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1637249584081" />
-    <state width="1557" height="231" key="GridCell.Tab.0.right" timestamp="1637249584082">
+    <state width="1557" height="225" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1637408787894" />
+    <state width="1557" height="225" key="GridCell.Tab.0.right" timestamp="1637408787894">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="231" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1637249584082" />
-    <state width="1557" height="477" key="GridCell.Tab.1.bottom" timestamp="1637242863999">
+    <state width="1557" height="225" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1637408787894" />
+    <state width="1557" height="147" key="GridCell.Tab.1.bottom" timestamp="1637408460959">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="477" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1637242863999" />
-    <state width="1557" height="477" key="GridCell.Tab.1.center" timestamp="1637242863999">
+    <state width="1557" height="147" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1637408460959" />
+    <state width="1557" height="147" key="GridCell.Tab.1.center" timestamp="1637408460958">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="477" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1637242863999" />
-    <state width="1557" height="477" key="GridCell.Tab.1.left" timestamp="1637242863999">
+    <state width="1557" height="147" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1637408460958" />
+    <state width="1557" height="147" key="GridCell.Tab.1.left" timestamp="1637408460958">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="477" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1637242863999" />
-    <state width="1557" height="477" key="GridCell.Tab.1.right" timestamp="1637242863999">
+    <state width="1557" height="147" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1637408460958" />
+    <state width="1557" height="147" key="GridCell.Tab.1.right" timestamp="1637408460958">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="477" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1637242863999" />
-    <state x="272" y="24" key="SettingsEditor" timestamp="1637307573180">
+    <state width="1557" height="147" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1637408460958" />
+    <state x="272" y="24" key="SettingsEditor" timestamp="1637308526386">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="272" y="24" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1637307573180" />
+    <state x="272" y="24" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1637308526386" />
     <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1635876091344">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -319,6 +316,7 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Quera_assignments$38__Berim_Touchal.coverage" NAME="38- Berim_Touchal Coverage Results" MODIFIED="1637340161765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$32_v3___Bozorgtarin_zirjadval.coverage" NAME="32(v3)- Bozorgtarin_zirjadval Coverage Results" MODIFIED="1636014109612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$32_v2___Bozorgtarin_zirjadval.coverage" NAME="32(v2)- Bozorgtarin_zirjadval Coverage Results" MODIFIED="1635921528834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$33_V2___Entekhab.coverage" NAME="33(V2)- Entekhab Coverage Results" MODIFIED="1635954981406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
@@ -326,7 +324,8 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$35__Chaleshe_Masiryabi.coverage" NAME="35- Chaleshe_Masiryabi Coverage Results" MODIFIED="1636575165578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$Knapsack_data_generator.coverage" NAME="Knapsack_data_generator Coverage Results" MODIFIED="1636990359110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$Knapsack_problem__1_.coverage" NAME="Knapsack_problem (1) Coverage Results" MODIFIED="1637069160445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
-    <SUITE FILE_PATH="coverage/Quera_assignments$draft.coverage" NAME="draft Coverage Results" MODIFIED="1637307716814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$draft.coverage" NAME="draft Coverage Results" MODIFIED="1637317178244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$38_2_Berim_Touchal.coverage" NAME="38-2 Berim_Touchal Coverage Results" MODIFIED="1637408787880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$Knapsack_problem.coverage" NAME="Knapsack_problem Coverage Results" MODIFIED="1637002041934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$34__Masire_Manhattani_ba_maximum_vazn.coverage" NAME="34- Masire_Manhattani_ba_maximum_vazn Coverage Results" MODIFIED="1636040024700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$32__Bozorgtarin_zirjadval.coverage" NAME="32- Bozorgtarin_zirjadval Coverage Results" MODIFIED="1635921206462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
