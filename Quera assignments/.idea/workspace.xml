@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="32- bozorgtarin_zirjadval added">
-      <change afterPath="$PROJECT_DIR$/7- برنامه نویسی پویا/39- Zarbe_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7- برنامه نویسی پویا/39-2 Zrbe_matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draft.py" beforeDir="false" afterPath="$PROJECT_DIR$/draft.py" afterDir="false" />
-    </list>
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="32- bozorgtarin_zirjadval added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,6 +200,7 @@
       <workItem from="1637306167238" duration="1284000" />
       <workItem from="1637307486950" duration="13337000" />
       <workItem from="1638455561260" duration="8919000" />
+      <workItem from="1652445304296" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="32- bozorgtarin_zirjadval added">
       <created>1635876080466</created>
