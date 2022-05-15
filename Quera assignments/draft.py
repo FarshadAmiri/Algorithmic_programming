@@ -1,1 +1,1 @@
-print(min(None, 1))
+print(int(['1', '1', '2']))
