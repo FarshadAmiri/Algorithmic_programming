@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="32- bozorgtarin_zirjadval added">
-      <change afterPath="$PROJECT_DIR$/8- الگوریتم های پس گرد/43- sudoku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8- الگوریتم های پس گرد/43_cheat- Sudoku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/draft_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8- الگوریتم های پس گرد/41- donbale_pas_gardani.py" beforeDir="false" afterPath="$PROJECT_DIR$/8- الگوریتم های پس گرد/41- donbale_pas_gardani.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draft.py" beforeDir="false" afterPath="$PROJECT_DIR$/draft.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +213,7 @@
       <workItem from="1652703212475" duration="5947000" />
       <workItem from="1652767129110" duration="18176000" />
       <workItem from="1652874612476" duration="7418000" />
-      <workItem from="1652920612048" duration="40000" />
+      <workItem from="1652920612048" duration="197000" />
     </task>
     <task id="LOCAL-00001" summary="32- bozorgtarin_zirjadval added">
       <created>1635876080466</created>
