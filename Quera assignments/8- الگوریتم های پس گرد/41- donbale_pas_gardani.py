@@ -4,6 +4,8 @@ series = []
 for k in range(n):
     series.append(list(map(int, input().split()))[1:])
 
+# print(series)
+
 numbers = set([item for sublist in series for item in sublist])
 mark = dict()
 for i in numbers:
