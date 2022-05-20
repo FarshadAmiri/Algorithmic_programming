@@ -1,5 +1,7 @@
 n, k = map(int, input().split())
 final_possible_locs = set()
+
+
 # It returns next possible knight locations based on its current location.
 def knight_move(n, knight_loc):
     next_possible_locs = []
