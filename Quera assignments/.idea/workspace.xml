@@ -21,8 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="32- bozorgtarin_zirjadval added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8- الگوریتم های پس گرد/44- n_queens.py" beforeDir="false" afterPath="$PROJECT_DIR$/8- الگوریتم های پس گرد/44- n_queens.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8- الگوریتم های پس گرد/44_2- n_queens.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8- الگوریتم های پس گرد/43- sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/8- الگوریتم های پس گرد/43- sudoku.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8- الگوریتم های پس گرد/43_cheat- Sudoku.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +64,8 @@
       <recent name="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\8- الگوریتم های پس گرد" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.44- queens">
-    <configuration name="43_4- Sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.43- sudoku">
+    <configuration name="43- sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +78,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8- الگوریتم های پس گرد/43_4- Sudoku.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8- الگوریتم های پس گرد/43- sudoku.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +100,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\8- الگوریتم های پس گرد\43_cheat- Sudoku.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8- الگوریتم های پس گرد/43_cheat- Sudoku.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.43- sudoku" />
+        <item itemvalue="Python.43_cheat- Sudoku" />
         <item itemvalue="Python.44- queens" />
         <item itemvalue="Python.draft" />
         <item itemvalue="Python.44- n_queens" />
-        <item itemvalue="Python.43_4- Sudoku" />
-        <item itemvalue="Python.43_cheat- Sudoku" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +216,7 @@
       <workItem from="1652767129110" duration="18176000" />
       <workItem from="1652874612476" duration="7418000" />
       <workItem from="1652920612048" duration="8522000" />
-      <workItem from="1653026533148" duration="3886000" />
+      <workItem from="1653026533148" duration="5899000" />
     </task>
     <task id="LOCAL-00001" summary="32- bozorgtarin_zirjadval added">
       <created>1635876080466</created>
@@ -252,22 +252,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="522" y="251" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1652987989607" />
-    <state width="1557" height="206" key="GridCell.Tab.0.bottom" timestamp="1653031009838">
+    <state width="1557" height="378" key="GridCell.Tab.0.bottom" timestamp="1653033142045">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="206" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1653031009838" />
-    <state width="1557" height="206" key="GridCell.Tab.0.center" timestamp="1653031009838">
+    <state width="1557" height="378" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1653033142045" />
+    <state width="1557" height="378" key="GridCell.Tab.0.center" timestamp="1653033142045">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="206" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1653031009838" />
-    <state width="1557" height="206" key="GridCell.Tab.0.left" timestamp="1653031009838">
+    <state width="1557" height="378" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1653033142045" />
+    <state width="1557" height="378" key="GridCell.Tab.0.left" timestamp="1653033142045">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="206" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1653031009838" />
-    <state width="1557" height="206" key="GridCell.Tab.0.right" timestamp="1653031009838">
+    <state width="1557" height="378" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1653033142045" />
+    <state width="1557" height="378" key="GridCell.Tab.0.right" timestamp="1653033142045">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="206" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1653031009838" />
+    <state width="1557" height="378" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1653033142045" />
     <state width="1557" height="374" key="GridCell.Tab.1.bottom" timestamp="1653030948333">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -284,6 +284,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="374" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1653030948317" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1653031213848">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1653031213848" />
     <state width="808" height="438" key="XDebugger.FullValuePopup" timestamp="1652801244251">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -309,7 +313,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$38__Berim_Touchal.coverage" NAME="38- Berim_Touchal Coverage Results" MODIFIED="1637340161765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$32_v3___Bozorgtarin_zirjadval.coverage" NAME="32(v3)- Bozorgtarin_zirjadval Coverage Results" MODIFIED="1636014109612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$32_v2___Bozorgtarin_zirjadval.coverage" NAME="32(v2)- Bozorgtarin_zirjadval Coverage Results" MODIFIED="1635921528834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
-    <SUITE FILE_PATH="coverage/Quera_assignments$43__sudoku.coverage" NAME="43- sudoku Coverage Results" MODIFIED="1652790133274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$43__sudoku.coverage" NAME="43- sudoku Coverage Results" MODIFIED="1653033120176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$37__Tafahom__LCS_.coverage" NAME="37- Tafahom_(LCS) Coverage Results" MODIFIED="1637243451989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$35__Chaleshe_Masiryabi.coverage" NAME="35- Chaleshe_Masiryabi Coverage Results" MODIFIED="1636575165578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$Knapsack_data_generator.coverage" NAME="Knapsack_data_generator Coverage Results" MODIFIED="1636990359110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
@@ -327,6 +331,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$34_v3_.coverage" NAME="34(v3) Coverage Results" MODIFIED="1636042901841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$36__Ya_hame_ya_hich_ya_yeki.coverage" NAME="36- Ya_hame_ya_hich_ya_yeki Coverage Results" MODIFIED="1637005482488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$33_V3___Entekhab.coverage" NAME="33(V3)- Entekhab Coverage Results" MODIFIED="1635956113468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$43_cheat__Sudoku.coverage" NAME="43_cheat- Sudoku Coverage Results" MODIFIED="1653032066143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$33_V2___Entekhab.coverage" NAME="33(V2)- Entekhab Coverage Results" MODIFIED="1635954981406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$38_2_Berim_Touchal.coverage" NAME="38-2 Berim_Touchal Coverage Results" MODIFIED="1637408787880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$draft.coverage" NAME="draft Coverage Results" MODIFIED="1653028644642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

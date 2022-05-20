@@ -1,6 +1,3 @@
-# It got 85 out of 100 score. IDK why!
-# 1 wrong answer and 1 'Time Limit Exceeded' out of 20 test cases.
-
 x = []
 for row in range(9):
    x.append(list(map(int, input().split())))
@@ -68,6 +65,7 @@ def find_solution(sudoku):
        if sudoku_solved == None:
            print_answer(sudoku)
            pp = 1
+           return True
 
    zeros = []
    for i in range(9):
@@ -75,7 +73,7 @@ def find_solution(sudoku):
          if sudoku[i][j] == 0:
             zeros.append((i,j))
    if len(zeros) == 0:
-      return True
+      return
 
    for n in range(1,10):
       nx = zeros[0][0]
@@ -84,8 +82,7 @@ def find_solution(sudoku):
       if sudoku_checker(sudoku, (nx, ny)) == True:
           if find_solution(sudoku):
               return True
-      else:
-          sudoku[nx][ny] = 0
+   sudoku[nx][ny] = 0
    return pp
 
 answer = find_solution(sdk)
