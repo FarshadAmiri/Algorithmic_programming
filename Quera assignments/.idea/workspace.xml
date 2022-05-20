@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="32- bozorgtarin_zirjadval added">
-      <change afterPath="$PROJECT_DIR$/8- الگوریتم های پس گرد/45- yek_asb.py" afterDir="false" />
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="45- yek asb Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8- الگوریتم های پس گرد/45- yek_asb.py" beforeDir="false" afterPath="$PROJECT_DIR$/8- الگوریتم های پس گرد/45- yek_asb.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/draft.py" beforeDir="false" afterPath="$PROJECT_DIR$/draft.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <recent name="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\8- الگوریتم های پس گرد" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.43- sudoku">
+  <component name="RunManager" selected="Python.45- yek_asb">
     <configuration name="43- sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,28 +109,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="44- n_queens" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Quera assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8- الگوریتم های پس گرد/44- n_queens.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="44- queens" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,6 +123,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\8- الگوریتم های پس گرد\44- queens.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="45- yek_asb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Quera assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8- الگوریتم های پس گرد/45- yek_asb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.45- yek_asb" />
         <item itemvalue="Python.43- sudoku" />
         <item itemvalue="Python.43_cheat- Sudoku" />
         <item itemvalue="Python.44- queens" />
         <item itemvalue="Python.draft" />
-        <item itemvalue="Python.44- n_queens" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +216,7 @@
       <workItem from="1652767129110" duration="18176000" />
       <workItem from="1652874612476" duration="7418000" />
       <workItem from="1652920612048" duration="8522000" />
-      <workItem from="1653026533148" duration="7624000" />
+      <workItem from="1653026533148" duration="10109000" />
     </task>
     <task id="LOCAL-00001" summary="32- bozorgtarin_zirjadval added">
       <created>1635876080466</created>
@@ -225,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635876080466</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="45- yek asb Added">
+      <created>1653034931155</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653034931155</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,29 +252,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="32- bozorgtarin_zirjadval added" />
-    <option name="LAST_COMMIT_MESSAGE" value="32- bozorgtarin_zirjadval added" />
+    <MESSAGE value="45- yek asb Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="45- yek asb Added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="522" y="251" key="#Notifications" timestamp="1652987989607">
+    <state x="522" y="251" key="#Notifications" timestamp="1653035377588">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="522" y="251" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1652987989607" />
-    <state width="1557" height="378" key="GridCell.Tab.0.bottom" timestamp="1653033142045">
+    <state x="522" y="251" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1653035377588" />
+    <state width="1557" height="378" key="GridCell.Tab.0.bottom" timestamp="1653039467624">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="378" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1653033142045" />
-    <state width="1557" height="378" key="GridCell.Tab.0.center" timestamp="1653033142045">
+    <state width="1557" height="378" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1653039467624" />
+    <state width="1557" height="378" key="GridCell.Tab.0.center" timestamp="1653039467623">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="378" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1653033142045" />
-    <state width="1557" height="378" key="GridCell.Tab.0.left" timestamp="1653033142045">
+    <state width="1557" height="378" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1653039467623" />
+    <state width="1557" height="378" key="GridCell.Tab.0.left" timestamp="1653039467623">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="378" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1653033142045" />
-    <state width="1557" height="378" key="GridCell.Tab.0.right" timestamp="1653033142045">
+    <state width="1557" height="378" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1653039467623" />
+    <state width="1557" height="378" key="GridCell.Tab.0.right" timestamp="1653039467624">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="378" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1653033142045" />
+    <state width="1557" height="378" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1653039467624" />
     <state width="1557" height="374" key="GridCell.Tab.1.bottom" timestamp="1653030948333">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -284,14 +292,18 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="374" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1653030948317" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1653031213848">
+    <state x="126" y="114" key="Vcs.Push.Dialog.v2" timestamp="1653035729968">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1653031213848" />
+    <state x="126" y="114" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1653035729968" />
     <state width="808" height="438" key="XDebugger.FullValuePopup" timestamp="1652801244251">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="808" height="438" key="XDebugger.FullValuePopup/0.0.1600.860@0.0.1600.860" timestamp="1652801244251" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1653038730857">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1653038730857" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -330,6 +342,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$44_2__n_queens.coverage" NAME="44 Coverage Results" MODIFIED="1652988185600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$34_v3_.coverage" NAME="34(v3) Coverage Results" MODIFIED="1636042901841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$36__Ya_hame_ya_hich_ya_yeki.coverage" NAME="36- Ya_hame_ya_hich_ya_yeki Coverage Results" MODIFIED="1637005482488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$45__yek_asb.coverage" NAME="45- yek_asb Coverage Results" MODIFIED="1653039467609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$33_V3___Entekhab.coverage" NAME="33(V3)- Entekhab Coverage Results" MODIFIED="1635956113468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$43_cheat__Sudoku.coverage" NAME="43_cheat- Sudoku Coverage Results" MODIFIED="1653032066143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$33_V2___Entekhab.coverage" NAME="33(V2)- Entekhab Coverage Results" MODIFIED="1635954981406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
