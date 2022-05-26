@@ -14,9 +14,7 @@ def merge_sort(arr, l, r):
     b = []
 
     while (p1 < mid) or (p2 < r):
-        if (p1 == mid+1) and (p2 == r+1):
-            return b
-        elif p1 == mid:
+        if p1 == mid:
             b.append(arr[p2])
             p2 += 1
         elif p2 == r:
