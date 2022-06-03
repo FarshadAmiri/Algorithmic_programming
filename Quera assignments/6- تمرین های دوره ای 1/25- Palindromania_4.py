@@ -4,7 +4,7 @@
 # s = 'a?a'
 # s = '???a???'
 # s = 'a??????'
-s = '????????????????????????b'
+# s = '???????????????????????????????????????????????????????????????????????????????????????????????b'
 # s = '???'
 # s = 'abaabbaabb'
 # s = 'a'
@@ -19,14 +19,44 @@ s = '????????????????????????b'
 # s = 'ba???a??'
 # s = '???'
 # s = 'ab?'
-s = '????????a'
-
+# s = '????????a'
+# s = 'ba??????????'
 # s= input()
 
-# s = s.split()
 
 def change_string_char(string, indice, char):
     string = string[:indice] + char + string[indice + 1:]
+    return string
+
+
+def complete_string(string):
+    for id, char in enumerate(string):
+        if char != '?':
+            id2 = id + 4
+            while (id2) < len(string):
+                if string[id2] == '?':
+                    string = change_string_char(string, id2 ,char)
+                id2 += 4
+
+            id2 = id - 4
+            while (id2) >= 0:
+                if string[id2] == '?':
+                    string = change_string_char(string, id2 ,char)
+                id2 -= 4
+# ----------------------------------------------------------------
+            other_char = 'b' if char == 'a' else 'a'
+
+            id3 = id + 2
+            while (id3) < len(string):
+                if string[id3] == '?':
+                    string = change_string_char(string, id3, other_char)
+                id3 += 4
+
+            id3 = id - 2
+            while (id3) >= 0:
+                if string[id3] == '?':
+                    string = change_string_char(string, id3, other_char)
+                id3 -= 4
     return string
 
 
@@ -41,15 +71,8 @@ def check_palindrome(string):
     return False  # It means that string does NOT contain any palindrome subset
 
 
-def fill_string(string):
-    characters = ['a','b']
-    for id, char in enumerate(string):
-        if char != '?':
-            char_indeices = []
-            while (id + 2) < len(string):
-                string = string
-
-
+s = complete_string(s)
+# print('completed string is ', s)
 
 blank_locs = []
 for i, char in enumerate(s):
@@ -62,6 +85,11 @@ def palindromania(string, index):
     global res
     if string.count('?') == 0:
         if check_palindrome(string) == False:
+            return True
+
+    elif complete_string(string).count('?') == 0:
+        if check_palindrome(string) == False:
+            res += 1
             return True
     else:
         if palindromania(string[:blank_locs[index]] + 'a' + string[blank_locs[index] + 1:], index + 1):
