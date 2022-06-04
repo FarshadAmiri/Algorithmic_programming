@@ -11,7 +11,7 @@ def solve(serie, k):
     for i in range(len(serie)):
         ps.append(ps[-1] + serie[i])
     ps = sorted(ps)
-    # print(ps)
+    print(ps)
     ans = 0
     for id, i in enumerate(ps):
         for j in ps[id+1:]:
