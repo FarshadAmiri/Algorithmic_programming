@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="Palindromania_4 modified!">
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="47- Beshmor modified">
+      <change afterPath="$PROJECT_DIR$/9- تقسیم و حل/47_cheat- Beshmor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/9- تقسیم و حل/47- Beshmor.py" beforeDir="false" afterPath="$PROJECT_DIR$/9- تقسیم و حل/47- Beshmor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/draft.py" beforeDir="false" afterPath="$PROJECT_DIR$/draft.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,7 @@
       <recent name="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\8- الگوریتم های پس گرد" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.47- Beshmor">
+  <component name="RunManager" selected="Python.47_cheat- Beshmor">
     <configuration name="25- Palindromania_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Calculate_remainder_of_a^b_over_mod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="47_cheat- Beshmor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +150,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\9- تقسیم و حل\Calculate_remainder_of_a^b_over_mod.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\9- تقسیم و حل\47_cheat- Beshmor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.47_cheat- Beshmor" />
         <item itemvalue="Python.47- Beshmor" />
+        <item itemvalue="Python.draft" />
         <item itemvalue="Python.46- Tabe_tavan_dar" />
         <item itemvalue="Python.25- Palindromania_4" />
-        <item itemvalue="Python.draft" />
-        <item itemvalue="Python.Calculate_remainder_of_a^b_over_mod" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +230,7 @@
       <workItem from="1653308440815" duration="3877000" />
       <workItem from="1653573275868" duration="1062000" />
       <workItem from="1653825506081" duration="5047000" />
-      <workItem from="1654236120177" duration="23880000" />
+      <workItem from="1654236120177" duration="34924000" />
     </task>
     <task id="LOCAL-00001" summary="32- bozorgtarin_zirjadval added">
       <created>1635876080466</created>
@@ -314,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654259790418</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="47- Beshmor modified">
+      <created>1654316052543</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1654316052544</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,7 +351,8 @@
     <MESSAGE value="45- Merge_Sort modified" />
     <MESSAGE value="remainder over mod added" />
     <MESSAGE value="Palindromania_4 modified!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Palindromania_4 modified!" />
+    <MESSAGE value="47- Beshmor modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="47- Beshmor modified" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Quera_assignments$draft_2.coverage" NAME="draft_2 Coverage Results" MODIFIED="1652788482535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -371,8 +381,8 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$46__Tabe_tavan_dar.coverage" NAME="46- Tabe_tavan_dar Coverage Results" MODIFIED="1654268381070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$32_v2___Bozorgtarin_zirjadval.coverage" NAME="32(v2)- Bozorgtarin_zirjadval Coverage Results" MODIFIED="1635921528834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$39__Zarbe_matrix.coverage" NAME="39- Zarbe_matrix Coverage Results" MODIFIED="1638517795898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
-    <SUITE FILE_PATH="coverage/Quera_assignments$draft.coverage" NAME="draft Coverage Results" MODIFIED="1654256571752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Quera_assignments$47.coverage" NAME="47- Beshmor Coverage Results" MODIFIED="1654316031466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$draft.coverage" NAME="draft Coverage Results" MODIFIED="1654321009126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$47.coverage" NAME="47- Beshmor Coverage Results" MODIFIED="1654326532789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$40__Tedade_jaygasht.coverage" NAME="40- Tedade_jaygasht Coverage Results" MODIFIED="1652548079224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$35__Chaleshe_Masiryabi.coverage" NAME="35- Chaleshe_Masiryabi Coverage Results" MODIFIED="1636575165578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$45__yek_asb.coverage" NAME="45- yek_asb Coverage Results" MODIFIED="1653039630388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
@@ -380,6 +390,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$Merge_Sort.coverage" NAME="Merge_Sort Coverage Results" MODIFIED="1653574191635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$soduko_checker.coverage" NAME="soduko_checker Coverage Results" MODIFIED="1652803092355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$41__donbale_pas_gardani.coverage" NAME="41- donbale_pas_gardani Coverage Results" MODIFIED="1652705912920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$47_2.coverage" NAME="47-2 Coverage Results" MODIFIED="1654327524290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$33_V3___Entekhab.coverage" NAME="33(V3)- Entekhab Coverage Results" MODIFIED="1635956113468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$37__Tafahom__LCS_.coverage" NAME="37- Tafahom_(LCS) Coverage Results" MODIFIED="1637243451989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$34_v3_.coverage" NAME="34(v3) Coverage Results" MODIFIED="1636042901841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />

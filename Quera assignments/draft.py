@@ -1,3 +1,3 @@
-char = 'b'
-other_char = 'b' if char == 'a' else 'a'
-print(other_char)
+a = [1,2,3]
+
+print(a[3:])
