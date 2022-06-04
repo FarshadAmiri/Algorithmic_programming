@@ -6,3 +6,4 @@ for i in range(t):
     series.append(list(map(int, input())), k)
 
 print(series)
+print()
