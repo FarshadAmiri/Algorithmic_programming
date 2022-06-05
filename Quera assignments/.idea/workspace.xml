@@ -19,11 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="47- Beshmor modified">
-      <change afterPath="$PROJECT_DIR$/9- تقسیم و حل/47_solution- Beshmor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9- تقسیم و حل/48- Nabejaei.py" afterDir="false" />
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="48- Nabejaei Added">
+      <change afterPath="$PROJECT_DIR$/9- تقسیم و حل/49- Daste_be_Daste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9- تقسیم و حل/49_2- Daste_be_Daste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9- تقسیم و حل/49_3- Daste_be_Daste.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9- تقسیم و حل/47- Beshmor.py" beforeDir="false" afterPath="$PROJECT_DIR$/9- تقسیم و حل/47- Beshmor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,60 +61,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Farshad/Desktop/Draft codes/venv",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "last_opened_file_path": "C:/Users/Farshad/Desktop/Git repos/Algorithmic_programming/Quera assignments/9- تقسیم و حل",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.postfix.templates"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\9- تقسیم و حل" />
       <recent name="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\8- الگوریتم های پس گرد" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.48- Nabejaei">
-    <configuration name="47- Beshmor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Quera assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9- تقسیم و حل" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\9- تقسیم و حل\47- Beshmor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="47_cheat- Beshmor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Quera assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9- تقسیم و حل" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\9- تقسیم و حل\47_cheat- Beshmor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.49_3- Daste_be_Daste">
     <configuration name="47_solution- Beshmor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="draft" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="49- Daste_be_Daste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,12 +124,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9- تقسیم و حل" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draft.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9- تقسیم و حل/49- Daste_be_Daste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="49_2- Daste_be_Daste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Quera assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9- تقسیم و حل" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9- تقسیم و حل/49_2- Daste_be_Daste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="49_3- Daste_be_Daste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Quera assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9- تقسیم و حل" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9- تقسیم و حل/49_3- Daste_be_Daste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.49_3- Daste_be_Daste" />
+        <item itemvalue="Python.49_2- Daste_be_Daste" />
+        <item itemvalue="Python.49- Daste_be_Daste" />
         <item itemvalue="Python.48- Nabejaei" />
         <item itemvalue="Python.47_solution- Beshmor" />
-        <item itemvalue="Python.47- Beshmor" />
-        <item itemvalue="Python.47_cheat- Beshmor" />
-        <item itemvalue="Python.draft" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +231,10 @@
       <workItem from="1653308440815" duration="3877000" />
       <workItem from="1653573275868" duration="1062000" />
       <workItem from="1653825506081" duration="5047000" />
-      <workItem from="1654236120177" duration="41254000" />
+      <workItem from="1654236120177" duration="42481000" />
+      <workItem from="1654397622546" duration="1441000" />
+      <workItem from="1654411504499" duration="6054000" />
+      <workItem from="1654433078031" duration="5453000" />
     </task>
     <task id="LOCAL-00001" summary="32- bozorgtarin_zirjadval added">
       <created>1635876080466</created>
@@ -330,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654327777510</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="48- Nabejaei Added">
+      <created>1654341085899</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1654341085899</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,7 +370,27 @@
     <MESSAGE value="remainder over mod added" />
     <MESSAGE value="Palindromania_4 modified!" />
     <MESSAGE value="47- Beshmor modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="47- Beshmor modified" />
+    <MESSAGE value="48- Nabejaei Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="48- Nabejaei Added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-defaults>
+        <breakpoint type="python-line" />
+      </breakpoints-defaults>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="ans" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Quera_assignments$draft_2.coverage" NAME="draft_2 Coverage Results" MODIFIED="1652788482535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -367,6 +398,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$36__Ya_hame_ya_hich_ya_yeki.coverage" NAME="36- Ya_hame_ya_hich_ya_yeki Coverage Results" MODIFIED="1637005482488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$45__Merge__Eghdamat_.coverage" NAME="45- Merge (Eghdamat) Coverage Results" MODIFIED="1653076537024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$D_Q.coverage" NAME="D&amp;Q Coverage Results" MODIFIED="1653834003956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$49_3__Daste_be_Daste.coverage" NAME="49_3- Daste_be_Daste Coverage Results" MODIFIED="1654439851549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$Knapsack_problem__1_.coverage" NAME="Knapsack_problem (1) Coverage Results" MODIFIED="1637069160445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
     <SUITE FILE_PATH="coverage/Quera_assignments$44__queens.coverage" NAME="44- queens Coverage Results" MODIFIED="1653031009816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$43_cheat__Sudoku.coverage" NAME="43_cheat- Sudoku Coverage Results" MODIFIED="1653032066143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
@@ -401,9 +433,11 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$47_2.coverage" NAME="47_cheat- Beshmor Coverage Results" MODIFIED="1654327854446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$33_V3___Entekhab.coverage" NAME="33(V3)- Entekhab Coverage Results" MODIFIED="1635956113468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$37__Tafahom__LCS_.coverage" NAME="37- Tafahom_(LCS) Coverage Results" MODIFIED="1637243451989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$49__Daste_be_Daste.coverage" NAME="49- Daste_be_Daste Coverage Results" MODIFIED="1654423753118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$34_v3_.coverage" NAME="34(v3) Coverage Results" MODIFIED="1636042901841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$43_4__Sudoku.coverage" NAME="43_4- Sudoku Coverage Results" MODIFIED="1652885887584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$33_V2___Entekhab.coverage" NAME="33(V2)- Entekhab Coverage Results" MODIFIED="1635954981406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$49_2__Daste_be_Daste.coverage" NAME="49_2- Daste_be_Daste Coverage Results" MODIFIED="1654437659066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$44__n_queens.coverage" NAME="44- n_queens Coverage Results" MODIFIED="1652921362355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$25__Palindromania_4.coverage" NAME="25- Palindromania_4 Coverage Results" MODIFIED="1654259356660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6- تمرین های دوره ای 1" />
     <SUITE FILE_PATH="coverage/Quera_assignments$48__Nabejaei.coverage" NAME="48- Nabejaei Coverage Results" MODIFIED="1654340953443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
