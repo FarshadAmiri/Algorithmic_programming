@@ -1,3 +1,3 @@
-a = [1,2,3]
-
-print(a[3:])
+string1 = '(()(()))'
+stack = [(string1[0],1)]
+print(stack[-1][1])
