@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="56- Olgouye_man_kiye Added">
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="49- Daste_be_Daste Modified">
+      <change afterPath="$PROJECT_DIR$/11- ساختمان داده ها/57- Virayeshgare_matn.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9- تقسیم و حل/49- Daste_be_Daste.py" beforeDir="false" afterPath="$PROJECT_DIR$/9- تقسیم و حل/49- Daste_be_Daste.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,29 +69,7 @@
       <recent name="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\8- الگوریتم های پس گرد" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.56- Olgouye_man_kiye">
-    <configuration name="54- Paranthez_gozari_motabar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Quera assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11- ساختمان داده ها" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11- ساختمان داده ها/54- Paranthez_gozari_motabar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.57- Virayeshgare_matn">
     <configuration name="54-2- Paranthez" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,13 +158,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="57- Virayeshgare_matn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Quera assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11- ساختمان داده ها" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11- ساختمان داده ها/57- Virayeshgare_matn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.57- Virayeshgare_matn" />
         <item itemvalue="Python.56- Olgouye_man_kiye" />
         <item itemvalue="Python.56-2 Olgou" />
         <item itemvalue="Python.55- History" />
         <item itemvalue="Python.54-2- Paranthez" />
-        <item itemvalue="Python.54- Paranthez_gozari_motabar" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +235,7 @@
       <workItem from="1654433078031" duration="5453000" />
       <workItem from="1654608219767" duration="4285000" />
       <workItem from="1654686835226" duration="7701000" />
-      <workItem from="1654819656420" duration="10333000" />
+      <workItem from="1654819656420" duration="13075000" />
     </task>
     <task id="LOCAL-00001" summary="32- bozorgtarin_zirjadval added">
       <created>1635876080466</created>
@@ -377,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654843049979</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="49- Daste_be_Daste Modified">
+      <created>1654843208915</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1654843208915</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,7 +418,8 @@
     <MESSAGE value="54- Paranthez_gozari_moratab modified" />
     <MESSAGE value="55- History Added" />
     <MESSAGE value="56- Olgouye_man_kiye Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="56- Olgouye_man_kiye Added" />
+    <MESSAGE value="49- Daste_be_Daste Modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="49- Daste_be_Daste Modified" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -437,6 +445,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Quera_assignments$36__Ya_hame_ya_hich_ya_yeki.coverage" NAME="36- Ya_hame_ya_hich_ya_yeki Coverage Results" MODIFIED="1637005482488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$45__Merge__Eghdamat_.coverage" NAME="45- Merge (Eghdamat) Coverage Results" MODIFIED="1653076537024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$57__Virayeshgare_matn.coverage" NAME="57- Virayeshgare_matn Coverage Results" MODIFIED="1654857829739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$Knapsack_problem__1_.coverage" NAME="Knapsack_problem (1) Coverage Results" MODIFIED="1637069160445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
     <SUITE FILE_PATH="coverage/Quera_assignments$43_cheat__Sudoku.coverage" NAME="43_cheat- Sudoku Coverage Results" MODIFIED="1653032066143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$33__Entekhab.coverage" NAME="33- Entekhab Coverage Results" MODIFIED="1635954225978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
