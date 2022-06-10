@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="55- History Added">
-      <change afterPath="$PROJECT_DIR$/11- ساختمان داده ها/56- Olgouye_man_kiye.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11- ساختمان داده ها/56-2 Olgou.py" afterDir="false" />
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="56- Olgouye_man_kiye Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9- تقسیم و حل/49- Daste_be_Daste.py" beforeDir="false" afterPath="$PROJECT_DIR$/9- تقسیم و حل/49- Daste_be_Daste.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,7 +235,7 @@
       <workItem from="1654433078031" duration="5453000" />
       <workItem from="1654608219767" duration="4285000" />
       <workItem from="1654686835226" duration="7701000" />
-      <workItem from="1654819656420" duration="10170000" />
+      <workItem from="1654819656420" duration="10333000" />
     </task>
     <task id="LOCAL-00001" summary="32- bozorgtarin_zirjadval added">
       <created>1635876080466</created>
@@ -371,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654702633680</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="56- Olgouye_man_kiye Added">
+      <created>1654843049979</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1654843049979</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,7 +410,8 @@
     <MESSAGE value="54- Paranthez_gozari_moratab Added" />
     <MESSAGE value="54- Paranthez_gozari_moratab modified" />
     <MESSAGE value="55- History Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="55- History Added" />
+    <MESSAGE value="56- Olgouye_man_kiye Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="56- Olgouye_man_kiye Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -441,7 +448,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$45__Edghamat.coverage" NAME="45- Edghamat Coverage Results" MODIFIED="1653055327636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$32_v3___Bozorgtarin_zirjadval.coverage" NAME="32(v3)- Bozorgtarin_zirjadval Coverage Results" MODIFIED="1636014109612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$54_2__Paranthez.coverage" NAME="54-2- Paranthez Coverage Results" MODIFIED="1654689099409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
-    <SUITE FILE_PATH="coverage/Quera_assignments$56_2_Olgou.coverage" NAME="56-2 Olgou Coverage Results" MODIFIED="1654842866622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$56_2_Olgou.coverage" NAME="56-2 Olgou Coverage Results" MODIFIED="1654843018940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$39__Zarbe_matrix.coverage" NAME="39- Zarbe_matrix Coverage Results" MODIFIED="1638517795898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$45__yek_asb.coverage" NAME="45- yek_asb Coverage Results" MODIFIED="1653039630388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$soduko_checker.coverage" NAME="soduko_checker Coverage Results" MODIFIED="1652803092355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
@@ -453,7 +460,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$33_V2___Entekhab.coverage" NAME="33(V2)- Entekhab Coverage Results" MODIFIED="1635954981406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$44__n_queens.coverage" NAME="44- n_queens Coverage Results" MODIFIED="1652921362355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$25__Palindromania_4.coverage" NAME="25- Palindromania_4 Coverage Results" MODIFIED="1654259356660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6- تمرین های دوره ای 1" />
-    <SUITE FILE_PATH="coverage/Quera_assignments$56__Olgouye_man_kiye.coverage" NAME="56- Olgouye_man_kiye Coverage Results" MODIFIED="1654841545946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$56__Olgouye_man_kiye.coverage" NAME="56- Olgouye_man_kiye Coverage Results" MODIFIED="1654843025156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$48__Nabejaei.coverage" NAME="48- Nabejaei Coverage Results" MODIFIED="1654340953443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$draft_2.coverage" NAME="draft_2 Coverage Results" MODIFIED="1652788482535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Quera_assignments$43_3_Sudoku.coverage" NAME="43-3 Sudoku Coverage Results" MODIFIED="1652807319764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
