@@ -1,21 +1,41 @@
-n , q = input().split(' ')
-n , q = int(n) , int(q)
-c = input().split(' ')
-c =[int(i) for i in c]
-d = []
+import bisect
 
-for i in range(0,q):
-    d.append(int(input()))
+n , q = map(int, input().split())
+c = list(map(int, input().split()))
+
+days = [int(input()) for i in range(q)]
+
+def merge_sort(arr, l, r):
+    if r - l == 1:
+        return
+
+    mid = int((l + r) / 2)
+
+    merge_sort(arr, l, mid)
+    merge_sort(arr, mid, r)
+
+    p1, p2 = l, mid
+    b = []
+
+    while (p1 < mid) or (p2 < r):
+        if p1 == mid:
+            b.append(arr[p2])
+            p2 += 1
+        elif p2 == r:
+            b.append(arr[p1])
+            p1 += 1
+        elif arr[p1] <= arr[p2]:
+            b.append(arr[p1])
+            p1 += 1
+        else:
+            b.append(arr[p2])
+            p2 += 1
+    arr[l:r] = b
 
 
-result = []
-for i in range(0,q):
-    sad_people = 0
-    for j in range(0,n):
-        if d[i]>c[j]:
-            sad_people += 1
-    result.append(sad_people)
+merge_sort(c, 0, len(c))
 
-for i in range(0,q):
-    print(result[i])
+
+for day in days:
+    print(bisect.bisect_right(c, day-0.1))
 
