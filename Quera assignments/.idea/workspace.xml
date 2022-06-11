@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="57- Virayeshgare_matn Added">
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="2- Gholiland_(Doshvar) Updated">
+      <change afterPath="$PROJECT_DIR$/11- ساختمان داده ها/58- Cafe_Salad.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1- ورود به دنیای الگوریتم ها/2-GholiLand_(Doshvar).py" beforeDir="false" afterPath="$PROJECT_DIR$/1- ورود به دنیای الگوریتم ها/2-GholiLand_(Doshvar).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/draft.py" beforeDir="false" afterPath="$PROJECT_DIR$/draft.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +70,7 @@
       <recent name="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\8- الگوریتم های پس گرد" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2-GholiLand_(Doshvar)">
+  <component name="RunManager" selected="Python.58- Cafe_Salad">
     <configuration name="2-GholiLand_(Doshvar)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,28 +115,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="56-2 Olgou" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Quera assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11- ساختمان داده ها" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11- ساختمان داده ها/56-2 Olgou.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="57- Virayeshgare_matn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,6 +129,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11- ساختمان داده ها/57- Virayeshgare_matn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="58- Cafe_Salad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Quera assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11- ساختمان داده ها" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11- ساختمان داده ها/58- Cafe_Salad.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2-GholiLand_(Doshvar)" />
+        <item itemvalue="Python.58- Cafe_Salad" />
         <item itemvalue="Python.draft" />
+        <item itemvalue="Python.2-GholiLand_(Doshvar)" />
         <item itemvalue="Python.57- Virayeshgare_matn" />
         <item itemvalue="Python.56- Olgouye_man_kiye" />
-        <item itemvalue="Python.56-2 Olgou" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +236,8 @@
       <workItem from="1654433078031" duration="5453000" />
       <workItem from="1654608219767" duration="4285000" />
       <workItem from="1654686835226" duration="7701000" />
-      <workItem from="1654819656420" duration="16690000" />
+      <workItem from="1654819656420" duration="17850000" />
+      <workItem from="1654959989934" duration="3719000" />
     </task>
     <task id="LOCAL-00001" summary="32- bozorgtarin_zirjadval added">
       <created>1635876080466</created>
@@ -392,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654858149902</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="2- Gholiland_(Doshvar) Updated">
+      <created>1654867709584</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1654867709584</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,7 +436,8 @@
     <MESSAGE value="56- Olgouye_man_kiye Added" />
     <MESSAGE value="49- Daste_be_Daste Modified" />
     <MESSAGE value="57- Virayeshgare_matn Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="57- Virayeshgare_matn Added" />
+    <MESSAGE value="2- Gholiland_(Doshvar) Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="2- Gholiland_(Doshvar) Updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -497,7 +506,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$46__Tabe_tavan_dar.coverage" NAME="46- Tabe_tavan_dar Coverage Results" MODIFIED="1654268381070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$32_v2___Bozorgtarin_zirjadval.coverage" NAME="32(v2)- Bozorgtarin_zirjadval Coverage Results" MODIFIED="1635921528834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$47.coverage" NAME="47- Beshmor Coverage Results" MODIFIED="1654327891905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
-    <SUITE FILE_PATH="coverage/Quera_assignments$draft.coverage" NAME="draft Coverage Results" MODIFIED="1654865061047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$draft.coverage" NAME="draft Coverage Results" MODIFIED="1654960651181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Quera_assignments$40__Tedade_jaygasht.coverage" NAME="40- Tedade_jaygasht Coverage Results" MODIFIED="1652548079224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$35__Chaleshe_Masiryabi.coverage" NAME="35- Chaleshe_Masiryabi Coverage Results" MODIFIED="1636575165578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$55__History.coverage" NAME="55- History Coverage Results" MODIFIED="1654695041372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
@@ -507,5 +516,6 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$49__Daste_be_Daste.coverage" NAME="49- Daste_be_Daste Coverage Results" MODIFIED="1654423753118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$34_v3_.coverage" NAME="34(v3) Coverage Results" MODIFIED="1636042901841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$49_2__Daste_be_Daste.coverage" NAME="49_2- Daste_be_Daste Coverage Results" MODIFIED="1654437659066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$58__Cafe_Salad.coverage" NAME="58- Cafe_Salad Coverage Results" MODIFIED="1654972923423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
   </component>
 </project>

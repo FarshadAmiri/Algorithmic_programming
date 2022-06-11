@@ -1,5 +1,11 @@
-import bisect
+import heapq
 
-mylist = [1, 1, 2, 4, 4, 4, 5, 5, 7, 8, 8]
+myHeap = [3, 1, 5]
 
-print(bisect.bisect_right(mylist, ))
+heapq.heapify(myHeap) # make a heap with elements of (myHeap = [3, 1, 5]) and store it in myHeap
+heapq.heappush(myHeap, -5) # add -5 to myHeap
+print(myHeap)
+print(type(myHeap))
+minElement =  heapq.heappop(myHeap)  # pop min element in myHeap and return value of min element
+
+print(minElement) # print -5
