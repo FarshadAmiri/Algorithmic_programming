@@ -1,10 +1,13 @@
-x = [[1,2,3], [4,5,6]]
+import heapq
 
-# r = x[0].copy()
-#
-# r.remove(2)
-#
-# print(r)
-x[0][2] = 5
+h = [8,4,6,9,11,4,3,15,2]
 
-print(x)
+heapq.heapify(h)
+print(h)
+print(h[0])
+print(heapq.heappop(h))
+
+heapq._heapify_max(h)
+print(h)
+print(h[0])
+print(heapq._heappop_max(h))
