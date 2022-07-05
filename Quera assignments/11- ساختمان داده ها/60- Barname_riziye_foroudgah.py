@@ -266,25 +266,24 @@ class BST:
         print(node.getKey(), end=" ")
         self.__print(node.getRight())
 
-# q,k = map(int, input().split())
-# requests = [int(input()) for i in range(q)]
-q , k= 6 , 3
-requests = [10, 8, 16, 14, 12, 13]
+q,k = map(float, input().split())
+q = int(q)
+requests = [float(input()) for i in range(q)]
+# q , k= 6 , 3
+# requests = [10, 8, 16, 14, 12, 13]
 
 lands = BST()
 
 for req in requests:
-    permission = True
-    min_greater = lands.minimumNumberGreaterThan(req)
-    max_less = lands.maximumNumberLessThan(req)
+    min_greater = lands.minimumNumberGreaterThan(req-0.1)
+    max_less = lands.maximumNumberLessThan(req+0.1)
 
     if min_greater == None:
-        min_greater = 2 * 10**9
+        min_greater = 10**10
     if max_less == None:
-        max_less = -2 * 10**9
-    if (min_greater - req < k) or (req - max_less < k):
-        permission = False
-    if permission == True:
+        max_less = - 10**10
+
+    if (abs(min_greater - req) >= k) and (abs(req - max_less) >= k):
         lands.insert(req)
         print('Permission Granted!')
     else:
