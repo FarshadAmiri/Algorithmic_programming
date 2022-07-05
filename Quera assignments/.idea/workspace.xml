@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="59- Miyane_ravi Modified">
-      <change afterPath="$PROJECT_DIR$/11- ساختمان داده ها/60- Barname_riziye_foroudgah.py" afterDir="false" />
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="60- Barname_riziye_foroudgah Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draft_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/draft_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11- ساختمان داده ها/60- Barname_riziye_foroudgah.py" beforeDir="false" afterPath="$PROJECT_DIR$/11- ساختمان داده ها/60- Barname_riziye_foroudgah.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +244,7 @@
       <workItem from="1656159405970" duration="10833000" />
       <workItem from="1656639050658" duration="181000" />
       <workItem from="1656653176867" duration="1206000" />
-      <workItem from="1657026156927" duration="1334000" />
+      <workItem from="1657026156927" duration="2617000" />
     </task>
     <task id="LOCAL-00001" summary="32- bozorgtarin_zirjadval added">
       <created>1635876080466</created>
@@ -436,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656178966887</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="60- Barname_riziye_foroudgah Added">
+      <created>1657027545106</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1657027545107</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,7 +482,8 @@
     <MESSAGE value="58- Cafe_Salad Added" />
     <MESSAGE value="59- Miyane_ravi Added" />
     <MESSAGE value="59- Miyane_ravi Modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="59- Miyane_ravi Modified" />
+    <MESSAGE value="60- Barname_riziye_foroudgah Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="60- Barname_riziye_foroudgah Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -553,7 +560,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$55__History.coverage" NAME="55- History Coverage Results" MODIFIED="1654695041372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$Knapsack_data_generator.coverage" NAME="Knapsack_data_generator Coverage Results" MODIFIED="1636990359110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$Merge_Sort.coverage" NAME="Merge_Sort Coverage Results" MODIFIED="1653574191635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
-    <SUITE FILE_PATH="coverage/Quera_assignments$60__Barname_riziye_foroudgah.coverage" NAME="60- Barname_riziye_foroudgah Coverage Results" MODIFIED="1657027479980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$60__Barname_riziye_foroudgah.coverage" NAME="60- Barname_riziye_foroudgah Coverage Results" MODIFIED="1657028758110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$47_2.coverage" NAME="47_cheat- Beshmor Coverage Results" MODIFIED="1654327854446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$59__Miyane_ravi.coverage" NAME="59- Miyane_ravi Coverage Results" MODIFIED="1656639108725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$49__Daste_be_Daste.coverage" NAME="49- Daste_be_Daste Coverage Results" MODIFIED="1654423753118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
