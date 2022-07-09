@@ -50,7 +50,7 @@ class BST:
         if self.root is None:
             self.root = node
             return
-        #if self.__findNode(self.root, key) is not None:
+        # if self.__findNode(self.root, key) is not None:
         #    return
 
         self.__insertRecursive(self.root, node)
@@ -265,54 +265,44 @@ class BST:
         self.__print(node.getLeft())
         print(node.getKey(), end=" ")
         self.__print(node.getRight())
-import string
-
-h,w,n = map(int, input().split())
-cuts = [input().translate({ord(c): None for c in string.whitespace}) for i in range(n)]
 
 
-cutlocs_h = BST()
-pieces_h = BST()
-cutlocs_w = BST()
-pieces_w = BST()
+width, height, n = map(int, input().split())
+cuts = [input().split() for i in range(n)]
 
-pieces_h.insert(h)
-pieces_w.insert(w)
-cutlocs_h.insert(0)
-cutlocs_h.insert(h)
-cutlocs_w.insert(0)
-cutlocs_w.insert(w)
 
-for op in cuts:
-    ax = int(op[1])
-    if op[0] == 'H':
-        r = cutlocs_h.minimumNumberGreaterThan(ax)
-        if r == None:
-            r = h
-        l = cutlocs_h.maximumNumberLessThan(ax)
-        if l == None:
-            l = 0
+cutlocs_height = BST()
+pieces_height = BST()
+cutlocs_width = BST()
+pieces_width = BST()
 
-        pl, pr = ax - l, r - ax
+pieces_height.insert(height)
+pieces_width.insert(width)
+cutlocs_height.insert(0)
+cutlocs_height.insert(height)
+cutlocs_width.insert(0)
+cutlocs_width.insert(width)
 
-        cutlocs_h.insert(ax)
-        pieces_h.delete(r-l)
-        pieces_h.insert(pl)
-        pieces_h.insert(pr)
+for cut in cuts:
+    x = int(cut[1])
+    if cut[0] == 'H':
+        under = cutlocs_height.minimumNumberGreaterThan(x)
+        above = cutlocs_height.maximumNumberLessThan(x)
 
-    elif op[0] == 'V':
-        r = cutlocs_w.minimumNumberGreaterThan(ax)
-        if r == None:
-            r = w
-        l = cutlocs_w.maximumNumberLessThan(ax)
-        if l == None:
-            l = 0
+        pa, pu = (x - above), (under - x)
+        cutlocs_height.insert(x)
+        pieces_height.delete(under - above)
+        pieces_height.insert(pa)
+        pieces_height.insert(pu)
 
-        pl, pr = ax - l, r - ax
+    else:
+        right = cutlocs_width.maximumNumberLessThan(x)
+        left = cutlocs_width.minimumNumberGreaterThan(x)
 
-        cutlocs_w.insert(ax)
-        pieces_w.delete(r - l)
-        pieces_w.insert(pl)
-        pieces_w.insert(pr)
+        pl, pr = left - x, x - right
 
-    print(pieces_h.getMaximum() * pieces_w.getMaximum())
+        cutlocs_width.insert(x)
+        pieces_width.delete(left - right)
+        pieces_width.insert(pl)
+        pieces_width.insert(pr)
+    print(pieces_height.getMaximum() * pieces_width.getMaximum())
