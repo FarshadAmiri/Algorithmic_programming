@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="62- Pool_ya_Vojdan Added">
-      <change afterPath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/63- Majmoue_jozei.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/64- Khastar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/65- Majmoue_Jozei_dar_Matrix.py" afterDir="false" />
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="63,64,65 Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11- ساختمان داده ها/58- Cafe_Salad.py" beforeDir="false" afterPath="$PROJECT_DIR$/11- ساختمان داده ها/58- Cafe_Salad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draft_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/draft_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/65- Majmoue_Jozei_dar_Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/65- Majmoue_Jozei_dar_Matrix.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +255,7 @@
       <workItem from="1657720162970" duration="407000" />
       <workItem from="1657720807105" duration="2440000" />
       <workItem from="1657801184497" duration="12962000" />
-      <workItem from="1657848447249" duration="4457000" />
+      <workItem from="1657848447249" duration="5295000" />
     </task>
     <task id="LOCAL-00001" summary="32- bozorgtarin_zirjadval added">
       <created>1635876080466</created>
@@ -492,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657802933330</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="63,64,65 Added">
+      <created>1657901202587</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1657901202587</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,7 +513,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="45- yek asb modified" />
     <MESSAGE value="Some file names changed" />
     <MESSAGE value="Some file names modified" />
     <MESSAGE value="45- Merge (Eghdamat) added" />
@@ -535,7 +537,8 @@
     <MESSAGE value="61- Boreshe_cake Added" />
     <MESSAGE value="61- Boreshe_cake Modified" />
     <MESSAGE value="62- Pool_ya_Vojdan Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="62- Pool_ya_Vojdan Added" />
+    <MESSAGE value="63,64,65 Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="63,64,65 Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -599,7 +602,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$47_3_Beshmor.coverage" NAME="47-3 Beshmor Coverage Results" MODIFIED="1654336743906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$38__Berim_Touchal.coverage" NAME="38- Berim_Touchal Coverage Results" MODIFIED="1637340161765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$Merge_Sort_2.coverage" NAME="Merge_Sort-2 Coverage Results" MODIFIED="1653251192340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
-    <SUITE FILE_PATH="coverage/Quera_assignments$65__Majmoue_Jozei_dar_Matrix.coverage" NAME="65- Majmoue_Jozei_dar_Matrix Coverage Results" MODIFIED="1657900935732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$65__Majmoue_Jozei_dar_Matrix.coverage" NAME="65- Majmoue_Jozei_dar_Matrix Coverage Results" MODIFIED="1657901764883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
     <SUITE FILE_PATH="coverage/Quera_assignments$60_2__Barname_riziye_foroudgah.coverage" NAME="60-2- Barname_riziye_foroudgah Coverage Results" MODIFIED="1657030632309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$43__sudoku.coverage" NAME="43- sudoku Coverage Results" MODIFIED="1653033120176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$64__Khastar.coverage" NAME="64- Khastar Coverage Results" MODIFIED="1657853752845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
