@@ -1,8 +1,7 @@
 # import heapq
+import heapq
 
 names = [1,2,3,2,1]
 
-for i in names:
-    if i == 3:
-        break
-    print(i)
+for i in range(len(names)):
+    heapq.heappop(names)
