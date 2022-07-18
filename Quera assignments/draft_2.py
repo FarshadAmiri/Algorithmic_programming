@@ -1,3 +1,8 @@
-x  = '1 0 1 0'
+x = [1,2,3]
 
-print(x.replace(' ',''))
+y = x.copy()
+
+y.remove(2)
+
+print(x)
+print(y)

@@ -1,29 +1,45 @@
 n, m, k = map(int, input().split())
-matrix = [input().split() for i in range(n)]
-matrix = [[int(j) for j in i] for i in matrix]
+mat = [input().split() for i in range(n)]
+mat = [[int(j) for j in i] for i in mat]
 
-# matrix = [[1, 1, 0], [1, 1, 0], [0, 1, 0]]
-# matrix = [[1, 1, 0, 1], [1, 0, 1, 1], [1, 1, 0, 1]]
-# matrix = [[0, 0, 1, 0], [1, 0, 0, 0], [1, 1, 0, 1], [1, 1, 0, 1], [1, 1, 0, 1]]
-
-# --------------------------------------------------------------------------------------------------------
-def matrix_partial_sums_dp(matrix):
-    n = len(matrix)
-    ps = [[None for j in range(n + 1)] for i in range(n + 1)]
-
-    for i in range(n + 1):
-        ps[0][i] = 0
-        ps[i][0] = 0
-
-    for i in range(1, n + 1):
-        for j in range(1, n + 1):
-            ps[i][j] = matrix[i - 1][j - 1] + ps[i - 1][j] + ps[i][j - 1] - ps[i - 1][j - 1]
-    return ps
-
-def matrix_sum(ps, query):
-    x, y, X, Y = query[0], query[1], query[2], query[3]
-    return (ps[X + 1][Y + 1] - ps[X + 1][y] - ps[x][Y + 1] + ps[x][y])
-# --------------------------------------------------------------------------------------------------------
+queries = []
+for x1 in range(n-k+1):
+    for y1 in range(m-k+1):
+        x2 = x1 + k - 1
+        y2 = y1 + k - 1
+        queries.append((x1,y1,x2,y2))
 
 
-for
+def matrix_arrays(matrix_boundary):
+    x1, y1, x2, y2 = matrix_boundary[0], matrix_boundary[1], matrix_boundary[2], matrix_boundary[3]
+    arrays = []
+    for i in range(x1, x2 + 1):
+        for j in range(y1, y2 + 1):
+            arrays.append((i,j))
+    return arrays
+
+
+max_ones = -1
+ans_matrices = []
+for q1 in queries:
+    queries2 = queries.copy()
+    queries2.remove(q1)
+    for q2 in queries2:
+        union_arrays = set(matrix_arrays(q1)).union(set(matrix_arrays(q2)))
+        sum = 0
+        for i,j in union_arrays:
+            sum += mat[i][j]
+        if sum > max_ones:
+            max_ones = sum
+            ans_matrices = [q1, q2]
+
+union_arrays = set(matrix_arrays(ans_matrices[0])).union(set(matrix_arrays(ans_matrices[1])))
+for i,j in union_arrays:
+    mat[i][j] = 0
+
+ans = 0
+for i in mat:
+    for j in i:
+        ans += j
+
+print((m*n) - ans)
