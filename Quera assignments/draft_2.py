@@ -1,7 +1,3 @@
-# import heapq
-import heapq
+x  = '1 0 1 0'
 
-names = [1,2,3,2,1]
-
-for i in range(len(names)):
-    heapq.heappop(names)
+print(x.replace(' ',''))
