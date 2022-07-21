@@ -1,17 +1,11 @@
 import math
-# n, q = map(int, input().split())
-# s = input().split()
-# s = [int(i) for i in s]
-# queries = [input().split() for i in range(q)]
-# queries = [(int(i), int(j)) for i,j in queries]
-n, q, s, queries = 7,3, [2, 1, 5, 4, 10, 2, 0], [(0, 6), (2, 4), (4, 4)]
-
-print(s)
-print(queries)
-
-print(math.log)
+n, q = map(int, input().split())
+s = list(map(int, input().split()))
+queries = [list(map(int, input().split())) for i in range(q)]
 
 rmq = [[None for j in range(len(s))] for i in range(int(math.log(len(s), 2))+1)]
+
+
 def preprocess_rmq(array):
     global rmq
     for i in range(len(array)):
@@ -23,8 +17,9 @@ def preprocess_rmq(array):
             else:
                 rmq[k][i] = rmq[k - 1][i]
 
+
 preprocess_rmq(s)
-print(rmq)
+
 
 def rmqMin(l,r):
     global s, rmq
@@ -35,5 +30,6 @@ def rmqMin(l,r):
             l += (2 ** t)
     return ans
 
+
 for l,r in queries:
-    print(rmqMin(l,r))
+    print(rmqMin(l,r+1))
