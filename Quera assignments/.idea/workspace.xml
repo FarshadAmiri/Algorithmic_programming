@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="67- Kadoye_mashti Created">
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="67- Kadoye_mashti Modified">
+      <change afterPath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/68- Kamineh_dar_bazeh.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/67- Kadoye_mashti.py" beforeDir="false" afterPath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/67- Kadoye_mashti.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/draft_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/draft_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,7 @@
       <recent name="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.67- Kadoye_mashti">
+  <component name="RunManager" selected="Python.68- Kamineh_dar_bazeh">
     <configuration name="58- Cafe_Salad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,28 +89,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11- ساختمان داده ها/58- Cafe_Salad.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="58-2- Cafe_Salad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Quera assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11- ساختمان داده ها" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11- ساختمان داده ها/58-2- Cafe_Salad.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,6 +141,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="68- Kamineh_dar_bazeh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Quera assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/68- Kamineh_dar_bazeh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="draft_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.68- Kamineh_dar_bazeh" />
+        <item itemvalue="Python.draft_2" />
         <item itemvalue="Python.67- Kadoye_mashti" />
         <item itemvalue="Python.66- Morabba" />
-        <item itemvalue="Python.draft_2" />
         <item itemvalue="Python.58- Cafe_Salad" />
-        <item itemvalue="Python.58-2- Cafe_Salad" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +262,7 @@
       <workItem from="1658237196182" duration="1665000" />
       <workItem from="1658317799665" duration="3592000" />
       <workItem from="1658404301265" duration="32000" />
-      <workItem from="1658404456315" duration="1048000" />
+      <workItem from="1658404456315" duration="4587000" />
     </task>
     <task id="LOCAL-00001" summary="32- bozorgtarin_zirjadval added">
       <created>1635876080466</created>
@@ -543,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658341337474</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="67- Kadoye_mashti Modified">
+      <created>1658407793178</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1658407793178</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Palindromania_4 modified!" />
     <MESSAGE value="47- Beshmor modified" />
     <MESSAGE value="48- Nabejaei Added" />
     <MESSAGE value="54- Paranthez_gozari_moratab Added" />
@@ -586,7 +593,8 @@
     <MESSAGE value="66- Morabba Created" />
     <MESSAGE value="66- Morabba Modified" />
     <MESSAGE value="67- Kadoye_mashti Created" />
-    <option name="LAST_COMMIT_MESSAGE" value="67- Kadoye_mashti Created" />
+    <MESSAGE value="67- Kadoye_mashti Modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="67- Kadoye_mashti Modified" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -643,7 +651,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$25__Palindromania_4.coverage" NAME="25- Palindromania_4 Coverage Results" MODIFIED="1654259356660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6- تمرین های دوره ای 1" />
     <SUITE FILE_PATH="coverage/Quera_assignments$56__Olgouye_man_kiye.coverage" NAME="56- Olgouye_man_kiye Coverage Results" MODIFIED="1654843025156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$48__Nabejaei.coverage" NAME="48- Nabejaei Coverage Results" MODIFIED="1654340953443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
-    <SUITE FILE_PATH="coverage/Quera_assignments$draft_2.coverage" NAME="draft_2 Coverage Results" MODIFIED="1658167596082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$draft_2.coverage" NAME="draft_2 Coverage Results" MODIFIED="1658431236693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Quera_assignments$43_3_Sudoku.coverage" NAME="43-3 Sudoku Coverage Results" MODIFIED="1652807319764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$D_Q.coverage" NAME="D&amp;Q Coverage Results" MODIFIED="1653834003956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$49_3__Daste_be_Daste.coverage" NAME="49_3- Daste_be_Daste Coverage Results" MODIFIED="1654439851549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
@@ -679,5 +687,6 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$49_2__Daste_be_Daste.coverage" NAME="49_2- Daste_be_Daste Coverage Results" MODIFIED="1654437659066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$63__Majmoue_jozei.coverage" NAME="63- Majmoue_jozei Coverage Results" MODIFIED="1657820048888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
     <SUITE FILE_PATH="coverage/Quera_assignments$58__Cafe_Salad.coverage" NAME="58- Cafe_Salad Coverage Results" MODIFIED="1658147905865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$68__Kamineh_dar_bazeh.coverage" NAME="68- Kamineh_dar_bazeh Coverage Results" MODIFIED="1658431797247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
   </component>
 </project>
