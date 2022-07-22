@@ -1,16 +1,13 @@
-# n , q = map(int, input().split())
-# series = list(map(int, input().split()))
-# queries = [list(map(int, input().split())) for i in range(q)]
 import math
+n , q = map(int, input().split())
+series = list(map(int, input().split()))
+queries = [list(map(int, input().split())) for i in range(q)]
 
-n, q, series, queries = 5, 6, [1, 2, 3, 4, 5], [[1, 1, 3], [2, 1, 5], [1, 1, 3], [1, 0, 4], [2, 3, 7], [1, 0, 3]]
-print('series =',series)
 
 list = []
 par = [0] * (n + 1)
 for i in range(n):
     par[i+1] += par[i] + series[i]
-print('par = ',par)
 
 
 def getsum(l,r):
@@ -23,15 +20,15 @@ def getsum(l,r):
 
 
 def change_val(idx, new_val):
-    global list
+    global list, series
     list.append((idx, new_val - series[idx]))
     series[idx] = new_val
 
 
 def update_partial_sum():
-    global list
+    global list, par
     for i in range(n):
-        par[i + 1] += par[i] + series[i]
+        par[i + 1] = par[i] + series[i]
     list = []
 
 
@@ -44,7 +41,4 @@ for query_type, i,j in queries:
         getsum(i, j)
     if query_type == 2:
         change_val(i, j)
-
-    counter += 1
-
-
+        counter += 1

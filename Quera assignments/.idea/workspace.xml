@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="68- Kamineh_dar_bazeh Modified">
-      <change afterPath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/69- Majmoue_Jozee_dar_araye_moteghayyer.py" afterDir="false" />
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="69- Majmoue_Jozee_dar_araye_moteghayyer Created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/69- Majmoue_Jozee_dar_araye_moteghayyer.py" beforeDir="false" afterPath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/69- Majmoue_Jozee_dar_araye_moteghayyer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +263,7 @@
       <workItem from="1658404301265" duration="32000" />
       <workItem from="1658404456315" duration="5120000" />
       <workItem from="1658464843060" duration="601000" />
-      <workItem from="1658484458594" duration="3153000" />
+      <workItem from="1658484458594" duration="4467000" />
     </task>
     <task id="LOCAL-00001" summary="32- bozorgtarin_zirjadval added">
       <created>1635876080466</created>
@@ -566,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658432329280</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="69- Majmoue_Jozee_dar_araye_moteghayyer Created">
+      <created>1658495714825</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1658495714825</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -584,7 +591,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="54- Paranthez_gozari_moratab Added" />
     <MESSAGE value="54- Paranthez_gozari_moratab modified" />
     <MESSAGE value="55- History Added" />
     <MESSAGE value="56- Olgouye_man_kiye Added" />
@@ -609,7 +615,8 @@
     <MESSAGE value="67- Kadoye_mashti Modified" />
     <MESSAGE value="68- Kamineh_dar_bazeh Created" />
     <MESSAGE value="68- Kamineh_dar_bazeh Modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="68- Kamineh_dar_bazeh Modified" />
+    <MESSAGE value="69- Majmoue_Jozee_dar_araye_moteghayyer Created" />
+    <option name="LAST_COMMIT_MESSAGE" value="69- Majmoue_Jozee_dar_araye_moteghayyer Created" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -703,6 +710,6 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$63__Majmoue_jozei.coverage" NAME="63- Majmoue_jozei Coverage Results" MODIFIED="1657820048888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
     <SUITE FILE_PATH="coverage/Quera_assignments$58__Cafe_Salad.coverage" NAME="58- Cafe_Salad Coverage Results" MODIFIED="1658147905865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$68__Kamineh_dar_bazeh.coverage" NAME="68- Kamineh_dar_bazeh Coverage Results" MODIFIED="1658432266299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
-    <SUITE FILE_PATH="coverage/Quera_assignments$69__Majmoue_Jozee_dar_araye_moteghayyer.coverage" NAME="69- Majmoue_Jozee_dar_araye_moteghayyer Coverage Results" MODIFIED="1658495651095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$69__Majmoue_Jozee_dar_araye_moteghayyer.coverage" NAME="69- Majmoue_Jozee_dar_araye_moteghayyer Coverage Results" MODIFIED="1658496370573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
   </component>
 </project>
