@@ -18,8 +18,8 @@ for i in range(nr):
 
 def calculate_max_in_range(l,r):
     global ranges, max_in_ranges
-    for index,rangee in enumerate(ranges):
-        if rangee[0] == l:
+    for index,rr in enumerate(ranges):
+        if rr[0] == l:
             idx = index
             break
     max_in_ranges[idx] = max(series[l:r+1])
@@ -27,5 +27,30 @@ def calculate_max_in_range(l,r):
 for i,j in ranges:
     calculate_max_in_range(i,j)
 
-print(series, ranges, max_in_ranges, sep='\n')
+# print(series, ranges, max_in_ranges, sep='\n')
+
+def calculate_arbitrary_max(l,r):
+    global ranges, max_in_ranges, series
+    sub_ranges_idx = []
+    out_data = []
+    for idx,rr in enumerate(ranges):
+        if (rr[0] >= l) and (rr[1] <= r):
+            sub_ranges_idx.append(idx)
+        elif (rr[0] < l) and (rr[1] >= l):
+            for x in range(l, rr[1] + 1):
+                out_data.append(series[x])
+        elif (rr[0] <= r) and (rr[1] > r):
+            for x in range(rr[0], r + 1):
+                out_data.append(series[x])
+    # print('out_data = ',out_data)
+    # print('sub_ranges_idx = ', sub_ranges_idx)
+    # print('max_in_ranges', max_in_ranges)
+    maxes = []
+    for ii in sub_ranges_idx:
+        maxes.append(max_in_ranges[ii])
+
+    return max(max(maxes), max(out_data))
+
+print(calculate_arbitrary_max(0,2))
+
 
