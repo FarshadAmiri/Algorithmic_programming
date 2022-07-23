@@ -1,13 +1,13 @@
 import math
-# n , q = map(int, input().split())
-# series = list(map(int, input().split()))
-# queries = [list(map(int, input().split())) for i in range(q)]
-n, q, series, queries = 5, 6, [1, 2, 3, 4, 5], [[1, 1, 3], [2, 1, 5], [1, 1, 3], [1, 0, 4], [2, 3, 7], [1, 0, 3]]
+n , q = map(int, input().split())
+series = list(map(int, input().split()))
+queries = [list(map(int, input().split())) for i in range(q)]
+# n, q, series, queries = 5, 6, [1, 2, 3, 4, 5], [[1, 1, 3], [2, 1, 5], [1, 1, 3], [1, 0, 4], [2, 3, 7], [1, 0, 3]]
 
 r = math.floor(math.sqrt(n))
 nr = math.ceil(math.sqrt(n))
 ranges = []
-max_in_ranges = [None for i in range(nr)]
+max_in_ranges = [None] * nr
 
 for i in range(nr):
     if i + 1 == nr:
@@ -48,9 +48,19 @@ def calculate_arbitrary_max(l,r):
     maxes = []
     for ii in sub_ranges_idx:
         maxes.append(max_in_ranges[ii])
+    for ii in out_data:
+        maxes.append(ii)
+    return max(maxes)
 
-    return max(max(maxes), max(out_data))
-
-print(calculate_arbitrary_max(0,2))
 
 
+for query_type, i,j in queries:
+    if query_type == 1:
+        print(calculate_arbitrary_max(i,j))
+    elif query_type == 2:
+        series[i] = j
+        for l,r in ranges:
+            if (i >= l) and (i <= r):
+                rr = (l,r)
+                break
+        calculate_max_in_range(rr[0],rr[1])
