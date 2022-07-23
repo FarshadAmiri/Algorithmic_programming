@@ -1,0 +1,1 @@
+print(range(5,9).range(5,7))
