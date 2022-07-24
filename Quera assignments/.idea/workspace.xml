@@ -22,8 +22,10 @@
     <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="70- Bishine_dar_araye_moteghayyer (Made another Progress)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70- Bishine_dar_araye_moteghayyer.py" beforeDir="false" afterPath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70- Bishine_dar_araye_moteghayyer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-5 Test Debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-5 Test Debug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-3 Generate inputs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-5 Test Debug.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,14 +269,7 @@
       <workItem from="1658464843060" duration="601000" />
       <workItem from="1658484458594" duration="8466000" />
       <workItem from="1658576633708" duration="10107000" />
-      <workItem from="1658659241051" duration="15056000" />
-    </task>
-    <task id="LOCAL-00003" summary="45- yek asb modified">
-      <created>1653039514872</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1653039514873</updated>
+      <workItem from="1658659241051" duration="15177000" />
     </task>
     <task id="LOCAL-00004" summary="45- yek asb modified">
       <created>1653039861791</created>
@@ -612,7 +607,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658692283641</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="70- Bishine_dar_araye_moteghayyer (Made another Progress)">
+      <created>1658694665794</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1658694665794</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -659,103 +661,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>35</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>66</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>77</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>76</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>75</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>74</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>73</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>72</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>71</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>69</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>70</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py</url>
-          <line>68</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-      </breakpoints>
       <breakpoints-defaults>
         <breakpoint type="python-line" />
       </breakpoints-defaults>

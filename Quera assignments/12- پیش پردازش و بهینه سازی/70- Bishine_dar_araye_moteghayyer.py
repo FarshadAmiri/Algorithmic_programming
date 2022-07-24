@@ -2,8 +2,6 @@ import math
 n , q = map(int, input().split())
 series = list(map(int, input().split()))
 queries = [list(map(int, input().split())) for i in range(q)]
-# n, q, series, queries = 5, 6, [1, 2, 3, 4, 5], [[1, 1, 3], [2, 1, 5], [1, 1, 3], [1, 0, 4], [2, 3, 7], [1, 0, 3]]
-# n, q, series, queries = 26, 4, [7,0,5,4,3,6,9,7,4,4,2,2,9,1,7,6,8,4,0,12,5,6,9,3,8,5], [[1, 7, 7.], [2, 1, 8], [1, 0, 0], [1, 7, 10], [2, 3, 7], [1, 0, 3], [1,4,8], [2,5,17], [2,11,7], [1,6,11]]
 
 r = math.floor(math.sqrt(n))
 nr = math.ceil(math.sqrt(n))
@@ -24,10 +22,10 @@ def calculate_max_in_range(l,r):
             max_in_ranges[index] = max(series[l:r+1])
             break
 
+
 for i,j in ranges:
     calculate_max_in_range(i,j)
 
-# print(f' series = {series} \n ranges = {ranges} \n max_in_ranges = {max_in_ranges}')
 
 def calculate_arbitrary_max(l,r):
     global ranges, max_in_ranges, series
@@ -52,7 +50,6 @@ def calculate_arbitrary_max(l,r):
         for i in range(l, r + 1):
             sub_ranges_maxes.append(series[i])
     return max(sub_ranges_maxes)
-
 
 
 for query_type, i,j in queries:
