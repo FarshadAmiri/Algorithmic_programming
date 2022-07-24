@@ -45,19 +45,25 @@ def MySolution(n, q, series, queries):
     def calculate_arbitrary_max(l, r):
         if l == r:
             return series[l]
+        sub_ranges = []
         sub_ranges_maxes = []
         for idx, rr in enumerate(ranges):
             if (rr[0] >= l) and (rr[1] <= r):
                 sub_ranges_maxes.append(max_in_ranges[idx])
-            elif (rr[0] < l) and (rr[1] >= r):
-                for x in range(l, r + 1):
-                    sub_ranges_maxes.append(series[x])
-            elif (rr[0] <= l) and (rr[1] > l):
-                for x in range(l, rr[1] + 1):
-                    sub_ranges_maxes.append(series[x])
-            elif (rr[0] < r) and (rr[1] >= r):
-                for x in range(rr[0], r + 1):
-                    sub_ranges_maxes.append(series[x])
+                sub_ranges.append((rr[0], rr[1]))
+        if len(sub_ranges_maxes) > 0:
+            start_range = min([i[0] for i in sub_ranges])
+            end_range = max([i[1] for i in sub_ranges])
+            outer_left = [i for i in range(l, start_range)]
+            outer_right = [i for i in range(end_range + 1, r + 1)]
+            for i in outer_left:
+                sub_ranges_maxes.append(series[i])
+            for i in outer_right:
+                sub_ranges_maxes.append(series[i])
+        else:
+            for i in range(l, r + 1):
+                sub_ranges_maxes.append(series[i])
+
         return max(sub_ranges_maxes)
 
     for query_type, i, j in queries:

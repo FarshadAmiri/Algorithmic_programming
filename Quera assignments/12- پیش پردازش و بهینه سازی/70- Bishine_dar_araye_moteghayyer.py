@@ -1,9 +1,9 @@
 import math
-# n , q = map(int, input().split())
-# series = list(map(int, input().split()))
-# queries = [list(map(int, input().split())) for i in range(q)]
+n , q = map(int, input().split())
+series = list(map(int, input().split()))
+queries = [list(map(int, input().split())) for i in range(q)]
 # n, q, series, queries = 5, 6, [1, 2, 3, 4, 5], [[1, 1, 3], [2, 1, 5], [1, 1, 3], [1, 0, 4], [2, 3, 7], [1, 0, 3]]
-n, q, series, queries = 26, 4, [7,0,5,4,3,6,9,7,4,4,2,2,9,1,7,6,8,4,0,12,5,6,9,3,8,5], [[1, 7, 7.], [2, 1, 8], [1, 0, 0], [1, 7, 10], [2, 3, 7], [1, 0, 3], [1,4,8], [2,5,17], [2,11,7], [1,6,11]]
+# n, q, series, queries = 26, 4, [7,0,5,4,3,6,9,7,4,4,2,2,9,1,7,6,8,4,0,12,5,6,9,3,8,5], [[1, 7, 7.], [2, 1, 8], [1, 0, 0], [1, 7, 10], [2, 3, 7], [1, 0, 3], [1,4,8], [2,5,17], [2,11,7], [1,6,11]]
 
 r = math.floor(math.sqrt(n))
 nr = math.ceil(math.sqrt(n))
@@ -31,18 +31,26 @@ for i,j in ranges:
 
 def calculate_arbitrary_max(l,r):
     global ranges, max_in_ranges, series
-    sub_ranges_maxes = []
     if l == r:
         return series[l]
-    for idx,rr in enumerate(ranges):
+    sub_ranges = []
+    sub_ranges_maxes = []
+    for idx, rr in enumerate(ranges):
         if (rr[0] >= l) and (rr[1] <= r):
             sub_ranges_maxes.append(max_in_ranges[idx])
-        elif (rr[0] < l) and (rr[1] >= l):
-            for x in range(l, rr[1] + 1):
-                sub_ranges_maxes.append(series[x])
-        elif (rr[0] <= r) and (rr[1] > r):
-            for x in range(rr[0], r + 1):
-                sub_ranges_maxes.append(series[x])
+            sub_ranges.append((rr[0], rr[1]))
+    if len(sub_ranges_maxes) > 0:
+        start_range = min([i[0] for i in sub_ranges])
+        end_range = max([i[1] for i in sub_ranges])
+        outer_left = [i for i in range(l, start_range)]
+        outer_right = [i for i in range(end_range + 1, r + 1)]
+        for i in outer_left:
+            sub_ranges_maxes.append(series[i])
+        for i in outer_right:
+            sub_ranges_maxes.append(series[i])
+    else:
+        for i in range(l, r + 1):
+            sub_ranges_maxes.append(series[i])
     return max(sub_ranges_maxes)
 
 
