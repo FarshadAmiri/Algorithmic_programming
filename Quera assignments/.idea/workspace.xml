@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="70- Bishine_dar_araye_moteghayyer (Made another Progress)">
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="70- Bishine_dar_araye_moteghayyer Modified">
+      <change afterPath="$PROJECT_DIR$/1- ورود به دنیای الگوریتم ها/Extra - Miyane_Sahih.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70- Bishine_dar_araye_moteghayyer.py" beforeDir="false" afterPath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70- Bishine_dar_araye_moteghayyer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-3 Generate inputs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-4 Test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-5 Test Debug.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +73,7 @@
       <recent name="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.70- Bishine_dar_araye_moteghayyer">
+  <component name="RunManager" selected="Python.Extra - Miyane_Sahih">
     <configuration name="70- Bishine_dar_araye_moteghayyer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,28 +88,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70- Bishine_dar_araye_moteghayyer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="70-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Quera assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,13 +162,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Extra - Miyane_Sahih" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Quera assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1- ورود به دنیای الگوریتم ها" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1- ورود به دنیای الگوریتم ها/Extra - Miyane_Sahih.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Extra - Miyane_Sahih" />
         <item itemvalue="Python.70- Bishine_dar_araye_moteghayyer" />
         <item itemvalue="Python.70-4 Test" />
         <item itemvalue="Python.70-5 Test Debug" />
         <item itemvalue="Python.70-3 Generate inputs" />
-        <item itemvalue="Python.70-2" />
       </list>
     </recent_temporary>
   </component>
@@ -269,14 +265,8 @@
       <workItem from="1658464843060" duration="601000" />
       <workItem from="1658484458594" duration="8466000" />
       <workItem from="1658576633708" duration="10107000" />
-      <workItem from="1658659241051" duration="15177000" />
-    </task>
-    <task id="LOCAL-00004" summary="45- yek asb modified">
-      <created>1653039861791</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1653039861791</updated>
+      <workItem from="1658659241051" duration="15286000" />
+      <workItem from="1658747811016" duration="1448000" />
     </task>
     <task id="LOCAL-00005" summary="Some file names changed">
       <created>1653040038543</created>
@@ -614,7 +604,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658694665794</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="70- Bishine_dar_araye_moteghayyer Modified">
+      <created>1658694800875</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1658694800875</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -632,7 +629,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="57- Virayeshgare_matn Added" />
     <MESSAGE value="2- Gholiland_(Doshvar) Updated" />
     <MESSAGE value="58- Cafe_Salad Added" />
     <MESSAGE value="59- Miyane_ravi Added" />
@@ -657,7 +653,8 @@
     <MESSAGE value="70- Bishine_dar_araye_moteghayyer Created" />
     <MESSAGE value="70- Bishine_dar_araye_moteghayyer (Made Progress)" />
     <MESSAGE value="70- Bishine_dar_araye_moteghayyer (Made another Progress)" />
-    <option name="LAST_COMMIT_MESSAGE" value="70- Bishine_dar_araye_moteghayyer (Made another Progress)" />
+    <MESSAGE value="70- Bishine_dar_araye_moteghayyer Modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="70- Bishine_dar_araye_moteghayyer Modified" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -754,6 +751,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$62__Pool_ya_Vojdan.coverage" NAME="62- Pool_ya_Vojdan Coverage Results" MODIFIED="1657802798002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$34_v3_.coverage" NAME="34(v3) Coverage Results" MODIFIED="1636042901841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$49_2__Daste_be_Daste.coverage" NAME="49_2- Daste_be_Daste Coverage Results" MODIFIED="1654437659066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$Extra___Miyane_Sahih.coverage" NAME="Extra - Miyane_Sahih Coverage Results" MODIFIED="1658753533314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1- ورود به دنیای الگوریتم ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$63__Majmoue_jozei.coverage" NAME="63- Majmoue_jozei Coverage Results" MODIFIED="1657820048888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
     <SUITE FILE_PATH="coverage/Quera_assignments$58__Cafe_Salad.coverage" NAME="58- Cafe_Salad Coverage Results" MODIFIED="1658147905865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$69__Majmoue_Jozee_dar_araye_moteghayyer.coverage" NAME="69- Majmoue_Jozee_dar_araye_moteghayyer Coverage Results" MODIFIED="1658496370573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
