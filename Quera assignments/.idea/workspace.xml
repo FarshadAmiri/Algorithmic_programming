@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="70- Bishine_dar_araye_moteghayyer Modified">
-      <change afterPath="$PROJECT_DIR$/1- ورود به دنیای الگوریتم ها/Extra - Miyane_Sahih.py" afterDir="false" />
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="Extra - Miyane_Sahih Created">
+      <change afterPath="$PROJECT_DIR$/1- ورود به دنیای الگوریتم ها/Extra- Tabdil_be_hesabi_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +73,7 @@
       <recent name="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Extra - Miyane_Sahih">
+  <component name="RunManager" selected="Python.Extra- Tabdil_be_hesabi_2">
     <configuration name="70- Bishine_dar_araye_moteghayyer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,28 +88,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70- Bishine_dar_araye_moteghayyer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="70-3 Generate inputs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Quera assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/70-3 Generate inputs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,13 +162,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Extra- Tabdil_be_hesabi_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Quera assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1- ورود به دنیای الگوریتم ها" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1- ورود به دنیای الگوریتم ها/Extra- Tabdil_be_hesabi_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Extra- Tabdil_be_hesabi_2" />
         <item itemvalue="Python.Extra - Miyane_Sahih" />
         <item itemvalue="Python.70- Bishine_dar_araye_moteghayyer" />
         <item itemvalue="Python.70-4 Test" />
         <item itemvalue="Python.70-5 Test Debug" />
-        <item itemvalue="Python.70-3 Generate inputs" />
       </list>
     </recent_temporary>
   </component>
@@ -266,14 +266,7 @@
       <workItem from="1658484458594" duration="8466000" />
       <workItem from="1658576633708" duration="10107000" />
       <workItem from="1658659241051" duration="15286000" />
-      <workItem from="1658747811016" duration="1448000" />
-    </task>
-    <task id="LOCAL-00005" summary="Some file names changed">
-      <created>1653040038543</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1653040038543</updated>
+      <workItem from="1658747811016" duration="2844000" />
     </task>
     <task id="LOCAL-00006" summary="Some file names modified">
       <created>1653040125561</created>
@@ -611,7 +604,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658694800875</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Extra - Miyane_Sahih Created">
+      <created>1658753607380</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1658753607380</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -629,7 +629,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2- Gholiland_(Doshvar) Updated" />
     <MESSAGE value="58- Cafe_Salad Added" />
     <MESSAGE value="59- Miyane_ravi Added" />
     <MESSAGE value="59- Miyane_ravi Modified" />
@@ -654,7 +653,8 @@
     <MESSAGE value="70- Bishine_dar_araye_moteghayyer (Made Progress)" />
     <MESSAGE value="70- Bishine_dar_araye_moteghayyer (Made another Progress)" />
     <MESSAGE value="70- Bishine_dar_araye_moteghayyer Modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="70- Bishine_dar_araye_moteghayyer Modified" />
+    <MESSAGE value="Extra - Miyane_Sahih Created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extra - Miyane_Sahih Created" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -699,6 +699,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$54_2__Paranthez.coverage" NAME="54-2- Paranthez Coverage Results" MODIFIED="1654689099409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$56_2_Olgou.coverage" NAME="56-2 Olgou Coverage Results" MODIFIED="1654843018940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$70_2.coverage" NAME="70-2 Coverage Results" MODIFIED="1658660473905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$Extra__Tabdil_be_hesabi_2.coverage" NAME="Extra- Tabdil_be_hesabi_2 Coverage Results" MODIFIED="1658754677247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1- ورود به دنیای الگوریتم ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$39__Zarbe_matrix.coverage" NAME="39- Zarbe_matrix Coverage Results" MODIFIED="1638517795898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$45__yek_asb.coverage" NAME="45- yek_asb Coverage Results" MODIFIED="1653039630388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$70_3_Generate_inputs.coverage" NAME="70-3 Generate inputs Coverage Results" MODIFIED="1658664543541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
