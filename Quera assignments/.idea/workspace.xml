@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="Some important general graph algorithms uploaded&#10;(DFS, BFS, Find shortest path &amp; find connected components in a graph)">
-      <change afterPath="$PROJECT_DIR$/13- الگوریتم های گراف/Bipartite_graphs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13- الگوریتم های گراف/Find_graph's_waist.py" afterDir="false" />
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="Some general graph algorithms uploaded">
+      <change afterPath="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/73- Mosaferat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13- الگوریتم های گراف/Does_it_have_Cycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/13- الگوریتم های گراف/Does_it_have_Cycle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,15 +56,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Farshad/Desktop/Git repos/Algorithmic_programming/Quera assignments/11- ساختمان داده ها",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.postfix.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Farshad/Desktop/Git repos/Algorithmic_programming/Quera assignments/11- ساختمان داده ها&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.postfix.templates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\11- ساختمان داده ها" />
@@ -77,7 +75,7 @@
       <recent name="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.72- BFS_Masiryab">
+  <component name="RunManager" selected="Python.73- Mosaferat">
     <configuration name="71- DFS_Pishgou" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,6 +120,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="73- Mosaferat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Quera assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی/73- Mosaferat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="DFS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,28 +156,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13- الگوریتم های گراف/DFS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Extra- Tabdil_be_hesabi_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Quera assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1- ورود به دنیای الگوریتم ها" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1- ورود به دنیای الگوریتم ها/Extra- Tabdil_be_hesabi_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.73- Mosaferat" />
         <item itemvalue="Python.72- BFS_Masiryab" />
         <item itemvalue="Python.71- DFS_Pishgou" />
         <item itemvalue="Python.draft_2" />
         <item itemvalue="Python.DFS" />
-        <item itemvalue="Python.Extra- Tabdil_be_hesabi_2" />
       </list>
     </recent_temporary>
   </component>
@@ -275,14 +273,8 @@
       <workItem from="1658934918531" duration="5024000" />
       <workItem from="1659005485993" duration="3580000" />
       <workItem from="1659015798967" duration="8118000" />
-      <workItem from="1659100694599" duration="2200000" />
-    </task>
-    <task id="LOCAL-00012" summary="Palindromania_4 modified!">
-      <created>1654259790418</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1654259790418</updated>
+      <workItem from="1659100694599" duration="2838000" />
+      <workItem from="1659137190758" duration="1761000" />
     </task>
     <task id="LOCAL-00013" summary="47- Beshmor modified">
       <created>1654316052543</created>
@@ -620,7 +612,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659086066083</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Some general graph algorithms uploaded">
+      <created>1659109074836</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1659109074837</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -638,7 +637,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="61- Boreshe_cake Modified" />
     <MESSAGE value="62- Pool_ya_Vojdan Added" />
     <MESSAGE value="63,64,65 Added" />
     <MESSAGE value="65- Majmoue_Jozei_dar_Matrix Modified" />
@@ -663,7 +661,8 @@
     <MESSAGE value="72- BFS_Masiryab Created" />
     <MESSAGE value="72- BFS_Masiryab Modified" />
     <MESSAGE value="Some important general graph algorithms uploaded&#10;(DFS, BFS, Find shortest path &amp; find connected components in a graph)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some important general graph algorithms uploaded&#10;(DFS, BFS, Find shortest path &amp; find connected components in a graph)" />
+    <MESSAGE value="Some general graph algorithms uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some general graph algorithms uploaded" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -705,6 +704,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$32__Bozorgtarin_zirjadval.coverage" NAME="32- Bozorgtarin_zirjadval Coverage Results" MODIFIED="1635921206462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$Knapsack_problem.coverage" NAME="Knapsack_problem Coverage Results" MODIFIED="1637002041934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$45__Edghamat.coverage" NAME="45- Edghamat Coverage Results" MODIFIED="1653055327636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$73__Mosaferat.coverage" NAME="73- Mosaferat Coverage Results" MODIFIED="1659139048411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
     <SUITE FILE_PATH="coverage/Quera_assignments$DFS.coverage" NAME="DFS Coverage Results" MODIFIED="1659002443327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13- الگوریتم های گراف" />
     <SUITE FILE_PATH="coverage/Quera_assignments$32_v3___Bozorgtarin_zirjadval.coverage" NAME="32(v3)- Bozorgtarin_zirjadval Coverage Results" MODIFIED="1636014109612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$54_2__Paranthez.coverage" NAME="54-2- Paranthez Coverage Results" MODIFIED="1654689099409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
