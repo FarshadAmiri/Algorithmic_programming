@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="Extra- Miyane_Sahih Modified">
-      <change afterPath="$PROJECT_DIR$/13- الگوریتم های گراف/71- DFS_Pishgou.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13- الگوریتم های گراف/DFS.py" afterDir="false" />
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="71- DFS_Pishgou Created">
+      <change afterPath="$PROJECT_DIR$/13- الگوریتم های گراف/72- BFS_Masiryab.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draft_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/draft_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +73,7 @@
       <recent name="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.71- DFS_Pishgou">
+  <component name="RunManager" selected="Python.72- BFS_Masiryab">
     <configuration name="71- DFS_Pishgou" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,6 +96,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="72- BFS_Masiryab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Quera assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13- الگوریتم های گراف" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13- الگوریتم های گراف/72- BFS_Masiryab.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="DFS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,28 +132,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13- الگوریتم های گراف/DFS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Extra- Miyane_Sahih" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Quera assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1- ورود به دنیای الگوریتم ها" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments\1- ورود به دنیای الگوریتم ها\Extra- Miyane_Sahih.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.72- BFS_Masiryab" />
         <item itemvalue="Python.71- DFS_Pishgou" />
         <item itemvalue="Python.draft_2" />
         <item itemvalue="Python.DFS" />
         <item itemvalue="Python.Extra- Tabdil_be_hesabi_2" />
-        <item itemvalue="Python.Extra- Miyane_Sahih" />
       </list>
     </recent_temporary>
   </component>
@@ -271,14 +269,8 @@
       <workItem from="1658747811016" duration="3080000" />
       <workItem from="1658930450127" duration="601000" />
       <workItem from="1658934918531" duration="5024000" />
-      <workItem from="1659005485993" duration="2868000" />
-    </task>
-    <task id="LOCAL-00008" summary="45- Merge_Sort added">
-      <created>1653251300768</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1653251300768</updated>
+      <workItem from="1659005485993" duration="3580000" />
+      <workItem from="1659015798967" duration="4393000" />
     </task>
     <task id="LOCAL-00009" summary="45- Merge_Sort modified">
       <created>1653573686218</created>
@@ -616,7 +608,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658755117408</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="71- DFS_Pishgou Created">
+      <created>1659008682066</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1659008682067</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -634,7 +633,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="59- Miyane_ravi Modified" />
     <MESSAGE value="60- Barname_riziye_foroudgah Added" />
     <MESSAGE value="60- Barname_riziye_foroudgah Modified" />
     <MESSAGE value="61- Boreshe_cake Added" />
@@ -659,7 +657,8 @@
     <MESSAGE value="Extra - Miyane_Sahih Created" />
     <MESSAGE value="Extra- Tabdil_be_hesabi_2 Modified" />
     <MESSAGE value="Extra- Miyane_Sahih Modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="Extra- Miyane_Sahih Modified" />
+    <MESSAGE value="71- DFS_Pishgou Created" />
+    <option name="LAST_COMMIT_MESSAGE" value="71- DFS_Pishgou Created" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -755,6 +754,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$71__DFS_Pishgou.coverage" NAME="71- DFS_Pishgou Coverage Results" MODIFIED="1659008528289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13- الگوریتم های گراف" />
     <SUITE FILE_PATH="coverage/Quera_assignments$47_2.coverage" NAME="47_cheat- Beshmor Coverage Results" MODIFIED="1654327854446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$66__Morabba.coverage" NAME="66- Morabba Coverage Results" MODIFIED="1658168980386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12- پیش پردازش و بهینه سازی" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$72__BFS_Masiryab.coverage" NAME="72- BFS_Masiryab Coverage Results" MODIFIED="1659074780109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13- الگوریتم های گراف" />
     <SUITE FILE_PATH="coverage/Quera_assignments$59__Miyane_ravi.coverage" NAME="59- Miyane_ravi Coverage Results" MODIFIED="1656639108725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
     <SUITE FILE_PATH="coverage/Quera_assignments$49__Daste_be_Daste.coverage" NAME="49- Daste_be_Daste Coverage Results" MODIFIED="1654423753118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$62__Pool_ya_Vojdan.coverage" NAME="62- Pool_ya_Vojdan Coverage Results" MODIFIED="1657802798002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
