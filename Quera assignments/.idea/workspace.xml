@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="71- DFS_Pishgou Created">
-      <change afterPath="$PROJECT_DIR$/13- الگوریتم های گراف/72- BFS_Masiryab.py" afterDir="false" />
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="72- BFS_Masiryab Created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13- الگوریتم های گراف/72- BFS_Masiryab.py" beforeDir="false" afterPath="$PROJECT_DIR$/13- الگوریتم های گراف/72- BFS_Masiryab.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,14 +270,7 @@
       <workItem from="1658930450127" duration="601000" />
       <workItem from="1658934918531" duration="5024000" />
       <workItem from="1659005485993" duration="3580000" />
-      <workItem from="1659015798967" duration="4393000" />
-    </task>
-    <task id="LOCAL-00009" summary="45- Merge_Sort modified">
-      <created>1653573686218</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1653573686218</updated>
+      <workItem from="1659015798967" duration="5141000" />
     </task>
     <task id="LOCAL-00010" summary="45- Merge_Sort modified">
       <created>1654255579343</created>
@@ -615,7 +608,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659008682067</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="72- BFS_Masiryab Created">
+      <created>1659074888333</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1659074888334</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -633,7 +633,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="60- Barname_riziye_foroudgah Added" />
     <MESSAGE value="60- Barname_riziye_foroudgah Modified" />
     <MESSAGE value="61- Boreshe_cake Added" />
     <MESSAGE value="61- Boreshe_cake Modified" />
@@ -658,7 +657,8 @@
     <MESSAGE value="Extra- Tabdil_be_hesabi_2 Modified" />
     <MESSAGE value="Extra- Miyane_Sahih Modified" />
     <MESSAGE value="71- DFS_Pishgou Created" />
-    <option name="LAST_COMMIT_MESSAGE" value="71- DFS_Pishgou Created" />
+    <MESSAGE value="72- BFS_Masiryab Created" />
+    <option name="LAST_COMMIT_MESSAGE" value="72- BFS_Masiryab Created" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

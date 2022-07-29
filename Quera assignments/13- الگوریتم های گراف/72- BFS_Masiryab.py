@@ -3,10 +3,12 @@ sys.setrecursionlimit(10**5 + 100)
 
 n, m = map(int, input().split())
 s, e = map(int, input().split())
+
 adj = list()
 for i in range(n+1):
     adj.append(list())
-distance = (n+1)*[10**9]
+
+distance = [10**9] * (n + 1)
 queue = list()
 prev = [None] * (n + 1)
 
@@ -28,10 +30,10 @@ def BFS(root):
 
 
 BFS(s)
+
 ans = distance[e]
 ans = ans if ans != 1000000000 else -1
 print(ans)
-
 
 if ans != -1:
     path = []
