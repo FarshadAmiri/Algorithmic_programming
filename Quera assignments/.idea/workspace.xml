@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="74- Padshah Modified">
-      <change afterPath="$PROJECT_DIR$/13- الگوریتم های گراف/75- Doost_yabi.py" afterDir="false" />
+    <list default="true" id="bfb2653e-239e-42e4-ad88-0dc66e338f67" name="Default Changelist" comment="75- Doost_yabi Added">
+      <change afterPath="$PROJECT_DIR$/13- الگوریتم های گراف/76- Jadval.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8- الگوریتم های پس گرد/42- Sudoku_solver.py" beforeDir="false" afterPath="$PROJECT_DIR$/8- الگوریتم های پس گرد/42- Sudoku_solver.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +76,8 @@
       <recent name="C:\Users\Farshad\Desktop\Git repos\Algorithmic_programming\Quera assignments" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.75- Doost_yabi">
-    <configuration name="72- BFS_Masiryab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.42- Sudoku_solver">
+    <configuration name="42- Sudoku_solver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quera assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,12 +85,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13- الگوریتم های گراف" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13- الگوریتم های گراف/72- BFS_Masiryab.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8- الگوریتم های پس گرد/42- Sudoku_solver.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.42- Sudoku_solver" />
         <item itemvalue="Python.75- Doost_yabi" />
         <item itemvalue="Python.74- Padshah" />
         <item itemvalue="Python.draft_2" />
         <item itemvalue="Python.73- Mosaferat" />
-        <item itemvalue="Python.72- BFS_Masiryab" />
       </list>
     </recent_temporary>
   </component>
@@ -275,14 +276,8 @@
       <workItem from="1659015798967" duration="8118000" />
       <workItem from="1659100694599" duration="2838000" />
       <workItem from="1659137190758" duration="5009000" />
-      <workItem from="1659181611343" duration="8950000" />
-    </task>
-    <task id="LOCAL-00017" summary="54- Paranthez_gozari_moratab modified">
-      <created>1654691696481</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1654691696481</updated>
+      <workItem from="1659181611343" duration="9876000" />
+      <workItem from="1659265240185" duration="2747000" />
     </task>
     <task id="LOCAL-00018" summary="55- History Added">
       <created>1654693993706</created>
@@ -620,7 +615,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659196694195</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="75- Doost_yabi Added">
+      <created>1659200090689</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1659200090690</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -638,7 +640,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="58- Cafe_Salad Modified" />
     <MESSAGE value="66- Morabba Created" />
     <MESSAGE value="66- Morabba Modified" />
     <MESSAGE value="67- Kadoye_mashti Created" />
@@ -663,7 +664,8 @@
     <MESSAGE value="73- Mosaferat Modified" />
     <MESSAGE value="74- Padshah Created" />
     <MESSAGE value="74- Padshah Modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="74- Padshah Modified" />
+    <MESSAGE value="75- Doost_yabi Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="75- Doost_yabi Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -694,6 +696,7 @@
     <SUITE FILE_PATH="coverage/Quera_assignments$36__Ya_hame_ya_hich_ya_yeki.coverage" NAME="36- Ya_hame_ya_hich_ya_yeki Coverage Results" MODIFIED="1637005482488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />
     <SUITE FILE_PATH="coverage/Quera_assignments$45__Merge__Eghdamat_.coverage" NAME="45- Merge (Eghdamat) Coverage Results" MODIFIED="1653076537024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9- تقسیم و حل" />
     <SUITE FILE_PATH="coverage/Quera_assignments$57__Virayeshgare_matn.coverage" NAME="57- Virayeshgare_matn Coverage Results" MODIFIED="1654857829739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11- ساختمان داده ها" />
+    <SUITE FILE_PATH="coverage/Quera_assignments$42__Sudoku_solver.coverage" NAME="42- Sudoku_solver Coverage Results" MODIFIED="1659275111860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$Knapsack_problem__1_.coverage" NAME="Knapsack_problem (1) Coverage Results" MODIFIED="1637069160445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
     <SUITE FILE_PATH="coverage/Quera_assignments$43_cheat__Sudoku.coverage" NAME="43_cheat- Sudoku Coverage Results" MODIFIED="1653032066143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8- الگوریتم های پس گرد" />
     <SUITE FILE_PATH="coverage/Quera_assignments$33__Entekhab.coverage" NAME="33- Entekhab Coverage Results" MODIFIED="1635954225978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7- برنامه نویسی پویا" />

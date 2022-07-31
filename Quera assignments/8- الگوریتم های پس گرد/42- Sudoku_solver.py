@@ -1,3 +1,4 @@
+import time
 x = []
 for row in range(9):
    x.append(list(map(int, input().split())))
@@ -6,7 +7,7 @@ sdk=[]
 for j in range(9):
    sdk.append([x[i][j] for i in range(9)])
 
-
+# print(sdk)
 def sudoku_checker(sudoku, cell_coord):
    def checker(array, cell):
       for i in array:
@@ -51,10 +52,10 @@ def print_answer(sudoku):
          for j in i:
             print(j, end=' ')
          print()
-
+c = 0
 pp = 0
 def find_solution(sudoku):
-   global pp
+   global pp, c
    sudoku_flatten = [item for sublist in sudoku for item in sublist]
    sudoku_solved = None
    if sudoku_flatten.count(0) == 0:
@@ -79,12 +80,16 @@ def find_solution(sudoku):
       nx = zeros[0][0]
       ny = zeros[0][1]
       sudoku[nx][ny] = n
+      c += 1
       if sudoku_checker(sudoku, (nx, ny)) == True:
           if find_solution(sudoku):
               return True
    sudoku[nx][ny] = 0
    return pp
 
+t1 = time.time()
 answer = find_solution(sdk)
+print(f'Duration: {(time.time() - t1):.5f} seconds')
+print(f'{c} number assigning')
 if answer == 0:
     print('No solution exists')
