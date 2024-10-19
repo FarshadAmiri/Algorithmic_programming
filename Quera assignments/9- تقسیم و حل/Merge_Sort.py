@@ -28,6 +28,5 @@ def merge_sort(arr, l, r):
             p2 += 1
     arr[l:r] = b
 
-
 merge_sort(arr, 0, len(arr))
 print(arr)
